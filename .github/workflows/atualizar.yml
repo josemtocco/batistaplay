@@ -11,20 +11,33 @@ permissions:
 jobs:
   atualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - name: Baixar repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Configurar Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.x"
+          python-version: "3.12"
 
       - name: Instalar dependências
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
 
-      - name: Gerar playlist
+      - name: Descobrir, testar e gerar M3U
         run: python atualizar.py
+
+      - name: Mostrar resultado
+        run: |
+          echo "===== descobertos.json ====="
+          cat descobertos.json
+          echo "===== atualizacao.log ====="
+          cat atualizacao.log
+          echo "===== quantidade de linhas M3U ====="
+          wc -l batistaplay.m3u
 
       - name: Salvar alterações
         run: |
