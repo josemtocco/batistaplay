@@ -1,9 +1,9 @@
 {
   "site": "https://www.batistaplay.net/",
-  "paginas_analisadas": 6,
+  "paginas_analisadas": 0,
+  "paginas_descobertas": 0,
   "streams_descobertos": 0,
   "streams_ativos": 0,
   "canais": [],
-  "erros": [],
-  "atualizado_em": "2026-10-01 16:24:47 UTC"
+  "erros": []
 }
