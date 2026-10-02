@@ -3,97 +3,85 @@
   "paginas_analisadas": 80,
   "paginas_descobertas": 174,
   "streams_descobertos": 101,
-  "streams_ativos": 97,
+  "streams_ativos": 96,
   "canais": [
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
-      "source": "https://www.batistaplay.net/channel/b06ef903-509d-4c2a-981b-332a4f0dcb86"
+      "url": "https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/ce354bce-cc9a-4140-8674-23e90189b78e/0.m3u8",
+      "source": "https://www.batistaplay.net/channel/d61e6dac-141a-4537-a623-4b944750ab2b"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w185855149.m3u8",
-      "source": "https://www.batistaplay.net/channel/071ea78f-e524-4711-82ff-81648adacd3a"
+      "url": "https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/ce354bce-cc9a-4140-8674-23e90189b78e/5.m3u8",
+      "source": "https://www.batistaplay.net/channel/d61e6dac-141a-4537-a623-4b944750ab2b"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/071ea78f-e524-4711-82ff-81648adacd3a"
+      "url": "https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/d61e6dac-141a-4537-a623-4b944750ab2b"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/chunklist_w1866209681.m3u8",
-      "source": "https://www.batistaplay.net/channel/01539648-1168-49a2-bc32-42c597e290c0"
+      "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w211562216.m3u8",
+      "source": "https://www.batistaplay.net/channel/15a69795-90dd-4a12-bfd4-249ef22a29d9"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/01539648-1168-49a2-bc32-42c597e290c0"
+      "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/15a69795-90dd-4a12-bfd4-249ef22a29d9"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/09d8a2d6-6544-4690-ae8b-45efb3e02724"
+      "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/33bffe3f-6c34-4db6-96b2-906409e02b3d"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
-      "source": "https://www.batistaplay.net/channel/6c70ce97-081d-4f5e-8757-8ff0b322b89e"
+      "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb54391c65736d8684cb366ecef040a0f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff17c5c17b90d6c5066c0bf0ca87e4fc4815c8a627b8efcde7c3f7f0f5b9b585ae0a558f6f783fc74e2449960e785a7057782e150f4b142e2c4810f8e20c227b541deb0d8b1e16ef3a60cb7646598592757306991c0589ecc4fbfd99b1348f4e2f7827c278c9492ed463588405753f6bdb8d7d57d8eacfb47b7414dd336915d83398462ab43c08b2bf2ffec8b151373cc4c3c10ce81e5253ac11613c4a82da0f6649a4f39b68b1b0db94cd527393193fc843a81d42aafb9318e8e687713ed9e5f9291be82a0e5c31adc6df296a5c37d6e476d111ac645facc528d7d943889de032d597a41afb15cd0c98c0d672c1cd0c07ddc0114b4dec4d28b5e7bf9611d5bfa69960e563b82673a0e82479cb635629c3e70ec775adf5d268b56f3a82694ff3b8495e22b6ba121cbd0d10a6ee511df62b95ec73a491a/8/1920x1080_6046040/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/33bffe3f-6c34-4db6-96b2-906409e02b3d"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8",
-      "source": "https://www.batistaplay.net/channel/f91db1b6-ef13-403b-9743-6c5c35d27ed1"
+      "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb54391c65736d8684cb366ecef040a0f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff17c5c17b90d6c5066c0bf0ca87e4fc4815c8a627b8efcde7c3f7f0f5b9b585ae0a558f6f783fc74e2449960e785a7057782e150f4b142e2c4810f8e20c227b541deb0d8b1e16ef3a60cb7646598592757306991c0589ecc4fbfd99b1348f4e2f7827c278c9492ed463588405753f6bdb8d7d57d8eacfb47b7414dd336915d83398462ab43c08b2bf2ffec8b151373cc4c3c10ce81e5253ac11613c4a82da0f6649a4f39b68b1b0db94cd527393193fc843a81d42aafb9318e8e687713ed9e5f9291be82a0e5c31adc6df296a5c37d6e476d111ac645facc528d7d943889de032d597a41afb15cd0c98c0d672c1cd0c07ddc0114b4dec4d28b5e7bf9611d5bfa69960e563b82673a0e82479cb635629c3e70ec775adf5d268b56f3a82694ff3b8495e22b6ba121cbd0d10a6ee511df62b95ec73a491a/8/640x360_1057680/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/33bffe3f-6c34-4db6-96b2-906409e02b3d"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/512.m3u8",
-      "source": "https://www.batistaplay.net/channel/f91db1b6-ef13-403b-9743-6c5c35d27ed1"
+      "url": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/b7237109-bcf2-4c77-a76d-d872530784ff"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/f91db1b6-ef13-403b-9743-6c5c35d27ed1"
+      "url": "https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/d0d0df8b-8647-4311-9c09-ebda691733e9"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
-      "source": "https://www.batistaplay.net/channel/982b6399-b60a-4f32-8298-a6edc8dd4cfa"
+      "url": "https://appletree-mytimespain-rakuten.amagi.tv/360p/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/d0d0df8b-8647-4311-9c09-ebda691733e9"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8",
-      "source": "https://www.batistaplay.net/channel/9f0d976f-758a-4baf-86ff-5eb4e1057e34"
+      "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/d0d0df8b-8647-4311-9c09-ebda691733e9"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/9f0d976f-758a-4baf-86ff-5eb4e1057e34"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8",
-      "source": "https://www.batistaplay.net/channel/c12a5dd9-7cfe-4458-8e22-bde44c428453"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/c12a5dd9-7cfe-4458-8e22-bde44c428453"
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a492d7dc-acad-4f1b-9b97-6194b98a5e3d"
     },
     {
       "name": "Guia de programacao",
@@ -116,31 +104,25 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
+      "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
+      "source": "https://www.batistaplay.net/channel/8ee0d499-ff2f-4df3-a62e-6383ba4e3e48"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
       "url": "https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8",
       "source": "https://www.batistaplay.net/channel/7cd5f833-b1f6-4eab-8bbb-7707f3a6bc88"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://isaocorp.cloudecast.com/recon/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/34733e9c-713a-4767-a684-963a53b29862"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://isaocorp.cloudecast.com/recon/tracks-v1a1/mono.m3u8",
-      "source": "https://www.batistaplay.net/channel/34733e9c-713a-4767-a684-963a53b29862"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://live.wayone.cloud/waytv/waytv1/chunklist_w1648723365_ao.m3u8",
+      "url": "https://live.wayone.cloud/waytv/waytv1/chunklist_w345876996_ao.m3u8",
       "source": "https://www.batistaplay.net/channel/d7025edb-91eb-4162-9ad3-8b85da9f2624"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://live.wayone.cloud/waytv/waytv1/chunklist_w1648723365_vo.m3u8",
+      "url": "https://live.wayone.cloud/waytv/waytv1/chunklist_w345876996_vo.m3u8",
       "source": "https://www.batistaplay.net/channel/d7025edb-91eb-4162-9ad3-8b85da9f2624"
     },
     {
@@ -164,8 +146,32 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
-      "source": "https://www.batistaplay.net/channel/81eb76e4-a8a6-4d9f-8d79-8f57ab96d02a"
+      "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
+      "source": "https://www.batistaplay.net/channel/22a99401-7b2a-4a8a-af30-129619e1d086"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
+      "source": "https://www.batistaplay.net/channel/4d7a759f-85b1-483d-b6ed-ee00eadd5526"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://s1.tvr.ovh/video10934/video10934/chunklist_w1148376520.m3u8",
+      "source": "https://www.batistaplay.net/channel/591e18f2-e5d6-4045-82d0-8499773d1323"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://s1.tvr.ovh/video10934/video10934/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/591e18f2-e5d6-4045-82d0-8499773d1323"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://sbtnews.maissbt.com/3.m3u8",
+      "source": "https://www.batistaplay.net/channel/5ed0e5d8-1bbb-4301-ab5b-1b502a4ae880"
     },
     {
       "name": "Guia de programacao",
@@ -182,14 +188,20 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://srv1954587.hstgr.cloud:8888/video01/main_stream.m3u8?session=2ab04127-af4d-4138-af34-15f412c6a61b",
+      "url": "https://srv1954587.hstgr.cloud:8888/video01/main_stream.m3u8?session=1f1832d2-bf2e-4cff-975f-849a0775fe66",
       "source": "https://www.batistaplay.net/channel/2137e114-7ce0-44b4-a222-e8c729660f29"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/d5872ac9-ac63-491a-bb93-eb914808068f"
+      "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/0af0d075-c88d-44b8-80a7-dc4b7da6769d"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/02087be1-4df9-4fc8-af00-201876b563a1"
     },
     {
       "name": "Guia de programacao",
@@ -200,8 +212,14 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=mx345529",
+      "url": "https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=2q11yo60",
       "source": "https://www.batistaplay.net/channel/1846df83-5974-4ebd-bdd2-f0b09b5198d6"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8",
+      "source": "https://www.batistaplay.net/channel/9c4e3a65-2d8e-4288-92a0-4ed65ad7f663"
     },
     {
       "name": "Guia de programacao",
@@ -218,26 +236,20 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/65473182-101f-45db-9ab2-c21ec1f2b1dd"
+      "url": "https://stmv2.srvif.com/famasi/famasi/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/2d6ea5c5-0f97-423d-ad56-79c19b1efb4d"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/ffbe650a-5c89-49cc-831b-87fc974f25d3"
+      "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/926356e1-b98d-4ceb-b8da-f2346a5ebf1e"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8",
-      "source": "https://www.batistaplay.net/channel/436e3c23-2f95-4350-8313-b73ce75ebaa5"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/6ecc7fa4-1b6b-48ea-a752-0be15dd46926"
+      "url": "https://stmv2.voxtvhd.com.br/joao1366/joao1366/playlist.m3u8?1789135064",
+      "source": "https://www.batistaplay.net/channel/cc71f73c-b3ed-46b4-825e-d365e20998f6"
     },
     {
       "name": "Guia de programacao",
@@ -248,32 +260,32 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
+      "url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/f7983bd2-d2e5-4443-a70a-92ef267b1cc2"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/f9a115d6-53f7-4e27-b4bc-023d486320c8"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/87193a64-a71c-45d0-b115-a5092f405c4e"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/fa074f1f-c3a6-4c5c-a6e5-0c63560d2870"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
       "url": "https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8",
       "source": "https://www.batistaplay.net/channel/7e6c468b-b2b6-4367-858f-29d0005d31a1"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/95472483-731d-4257-9a51-a7942d9027bd"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/63cea763-5670-4f71-968f-8b0abb9c43bd"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/a0ff8c8f-66d6-4765-8a56-e0b5b324c69e"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/f44c7ff7-28a7-4479-ba53-0b68f17ef442"
     },
     {
       "name": "Guia de programacao",
@@ -308,20 +320,14 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://tv.rbti.tv.br/rbti2/540p/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/e616fa04-c4f6-4a36-93df-4fc12e4b9510"
+      "url": "https://tv.rbti.tv.br/rbti4/720p/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/5f257c45-2872-4c91-bd0a-d1e9f72ebf02"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://tv.rbti.tv.br/rbti2/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/e616fa04-c4f6-4a36-93df-4fc12e4b9510"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w496950118.m3u8",
-      "source": "https://www.batistaplay.net/channel/7e8dd5c2-7894-4e37-9207-77f7c278934c"
+      "url": "https://tv.rbti.tv.br/rbti4/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/5f257c45-2872-4c91-bd0a-d1e9f72ebf02"
     },
     {
       "name": "Guia de programacao",
@@ -338,8 +344,32 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
+      "url": "https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_900000=10003.m3u8",
+      "source": "https://www.batistaplay.net/channel/91c080e8-a66d-414f-8f51-509371b05511"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000.m3u8",
+      "source": "https://www.batistaplay.net/channel/91c080e8-a66d-414f-8f51-509371b05511"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
       "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
       "source": "https://www.batistaplay.net/channel/91c080e8-a66d-414f-8f51-509371b05511"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1719909396.m3u8",
+      "source": "https://www.batistaplay.net/channel/7669e341-e627-458d-a8fe-64dd9b2791b5"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/7669e341-e627-458d-a8fe-64dd9b2791b5"
     },
     {
       "name": "Guia de programacao",
@@ -350,13 +380,13 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8",
-      "source": "https://www.batistaplay.net/channel/35e86d0d-511e-4af5-aee9-7ae97eced06a"
+      "url": "https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8?hls_ctx=x105h921",
+      "source": "https://www.batistaplay.net/channel/263753de-4b99-48d7-a0fc-f6bb06a1c874"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w995865130.m3u8",
+      "url": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w586907720.m3u8",
       "source": "https://www.batistaplay.net/channel/c757b06d-6285-44b0-81d6-81b6a4169e40"
     },
     {
@@ -368,25 +398,13 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video04.logicahost.com.br/schamlztv/schamlztv/chunklist_w2052132304.m3u8",
-      "source": "https://www.batistaplay.net/channel/95f5f806-51e6-4190-afa8-ba3c99b2cab6"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/95f5f806-51e6-4190-afa8-ba3c99b2cab6"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
       "url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8",
       "source": "https://www.batistaplay.net/channel/25a4cf65-6cd2-40d5-9592-89bc307c3996"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1462236000.m3u8",
+      "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1843249286.m3u8",
       "source": "https://www.batistaplay.net/channel/cdd9e076-37e4-48ac-9b30-508e2a03a280"
     },
     {
@@ -398,43 +416,31 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w1307658687.m3u8",
-      "source": "https://www.batistaplay.net/channel/004e0730-7fd6-42b4-84d6-3c9fc8f0809a"
+      "url": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w784064242.m3u8",
+      "source": "https://www.batistaplay.net/channel/f35e520a-1196-4094-b4c1-9e74dc8b56f8"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/004e0730-7fd6-42b4-84d6-3c9fc8f0809a"
+      "url": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/f35e520a-1196-4094-b4c1-9e74dc8b56f8"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video05.logicahost.com.br/rsnews/rsnews/chunklist_w55854701.m3u8",
-      "source": "https://www.batistaplay.net/channel/bce5e2b9-b740-4f33-bc9b-7505def9840b"
+      "url": "https://video07.logicahost.com.br/rsnews01/rsnews01/chunklist_w2090102971.m3u8",
+      "source": "https://www.batistaplay.net/channel/a2e29da0-9e28-493d-bab8-9b1cb834bae6"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/bce5e2b9-b740-4f33-bc9b-7505def9840b"
+      "url": "https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a2e29da0-9e28-493d-bab8-9b1cb834bae6"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w507934581.m3u8",
-      "source": "https://www.batistaplay.net/channel/195fee46-d4df-4b62-9e22-ff5d6016df83"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/195fee46-d4df-4b62-9e22-ff5d6016df83"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w1480124633.m3u8",
+      "url": "https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w597257631.m3u8",
       "source": "https://www.batistaplay.net/channel/7d35ebff-c21f-421d-9839-55769b990ce6"
     },
     {
@@ -446,14 +452,8 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video07.logicahost.com.br/rstv1/rstv1/chunklist_w21910444.m3u8",
-      "source": "https://www.batistaplay.net/channel/afd10384-b7c2-4cb7-8cf0-409e5162a9c3"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/afd10384-b7c2-4cb7-8cf0-409e5162a9c3"
+      "url": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w344263856.m3u8",
+      "source": "https://www.batistaplay.net/channel/e70492b6-138e-4774-a737-e80e3f91a527"
     },
     {
       "name": "Guia de programacao",
@@ -464,49 +464,79 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video09.logicahost.com.br/tvgazin/tvgazin/chunklist_w1485451483.m3u8",
-      "source": "https://www.batistaplay.net/channel/14c2fd90-377b-49dc-a5ec-d86248846dd3"
+      "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w230245795.m3u8",
+      "source": "https://www.batistaplay.net/channel/9390ab3b-1693-47c5-88b8-66efae623d1f"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/14c2fd90-377b-49dc-a5ec-d86248846dd3"
+      "url": "https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/chunklist_w1807436241.m3u8",
+      "source": "https://www.batistaplay.net/channel/324c71f4-85f2-4c17-a7f3-0871c9744d64"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w1381169115.m3u8",
-      "source": "https://www.batistaplay.net/channel/aa40174d-254b-4e58-ae34-9fcc0ae005e0"
+      "url": "https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/324c71f4-85f2-4c17-a7f3-0871c9744d64"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/aa40174d-254b-4e58-ae34-9fcc0ae005e0"
+      "url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/chunklist_w1084676612.m3u8",
+      "source": "https://www.batistaplay.net/channel/ad6aa8b9-ab3c-46b0-b61e-3c7a1196d62d"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/9928febc-9ae2-4ba2-a1ac-5fb0904c8de2"
+      "url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/ad6aa8b9-ab3c-46b0-b61e-3c7a1196d62d"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w501340921.m3u8",
-      "source": "https://www.batistaplay.net/channel/a5e542c4-1420-4231-9d7d-f4353dc2ac99"
+      "url": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8",
+      "source": "https://www.batistaplay.net/channel/a90dd84c-0075-438c-8225-5038b30b2440"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/a5e542c4-1420-4231-9d7d-f4353dc2ac99"
+      "url": "https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w998516962.m3u8",
+      "source": "https://www.batistaplay.net/channel/23f2b6db-5891-452c-942e-4c204fe421c5"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w155564472.m3u8",
+      "url": "https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/23f2b6db-5891-452c-942e-4c204fe421c5"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w144675035.m3u8",
+      "source": "https://www.batistaplay.net/channel/81cd9fad-ff6d-48d5-ac3a-60536e35c2e0"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/81cd9fad-ff6d-48d5-ac3a-60536e35c2e0"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvmon/tvmon/chunklist_w744730133.m3u8",
+      "source": "https://www.batistaplay.net/channel/f9a9a89b-34e2-45c1-b779-b62c91f48bf3"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/f9a9a89b-34e2-45c1-b779-b62c91f48bf3"
+    },
+    {
+      "name": "Guia de programacao",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w1474950777.m3u8",
       "source": "https://www.batistaplay.net/channel/41dcaba8-686f-475d-9e5f-f2d3e01c24dc"
     },
     {
@@ -518,76 +548,40 @@
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/chunklist_w658836673.m3u8",
-      "source": "https://www.batistaplay.net/channel/1b60eee3-b107-4f66-8507-e40b945468e3"
+      "url": "https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w608110187_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/1728d51b-6316-4729-a334-11415a364ff6"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/1b60eee3-b107-4f66-8507-e40b945468e3"
+      "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/1728d51b-6316-4729-a334-11415a364ff6"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/detetives/detetives/chunklist_w169446306.m3u8",
-      "source": "https://www.batistaplay.net/channel/6ba3203a-0729-4751-b717-96c87d411f8f"
+      "url": "https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1943322522_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/a45bca6e-6c1d-4fcc-a190-21164710e8da"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/6ba3203a-0729-4751-b717-96c87d411f8f"
+      "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a45bca6e-6c1d-4fcc-a190-21164710e8da"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/gramadotv/gramadotv/chunklist_w1658048068.m3u8",
-      "source": "https://www.batistaplay.net/channel/ac76af5f-b358-4d4e-b653-72f869f5459e"
+      "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/chunklist_w1812218325_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/011fdcbc-a65d-4d07-8742-3d6ba099cc0f"
     },
     {
       "name": "Guia de programacao",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/ac76af5f-b358-4d4e-b653-72f869f5459e"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8",
-      "source": "https://www.batistaplay.net/channel/1cff97eb-7dc7-4f5c-a6d0-393cdcf5d851"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w446844418_b413000_sleng.m3u8",
-      "source": "https://www.batistaplay.net/channel/3819c849-81e6-4892-9c9d-07903946d3d9"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/3819c849-81e6-4892-9c9d-07903946d3d9"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1710433414_b413000_sleng.m3u8",
-      "source": "https://www.batistaplay.net/channel/23d76781-3fba-4b68-8d65-6ca00a3e0069"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/23d76781-3fba-4b68-8d65-6ca00a3e0069"
-    },
-    {
-      "name": "Guia de programacao",
-      "category": "Geral",
-      "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/0612fe23-6a67-46c1-82f1-776ac1c2c799"
+      "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/011fdcbc-a65d-4d07-8742-3d6ba099cc0f"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-10-02 04:21:01 UTC"
+  "atualizado_em": "2026-10-02 11:58:50 UTC"
 }

@@ -1,34 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/ce354bce-cc9a-4140-8674-23e90189b78e/0.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w185855149.m3u8
+https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/ce354bce-cc9a-4140-8674-23e90189b78e/5.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://a.cdni.live/rodrigo2364/rodrigo2364/chunklist_w1866209681.m3u8
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w211562216.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb54391c65736d8684cb366ecef040a0f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff17c5c17b90d6c5066c0bf0ca87e4fc4815c8a627b8efcde7c3f7f0f5b9b585ae0a558f6f783fc74e2449960e785a7057782e150f4b142e2c4810f8e20c227b541deb0d8b1e16ef3a60cb7646598592757306991c0589ecc4fbfd99b1348f4e2f7827c278c9492ed463588405753f6bdb8d7d57d8eacfb47b7414dd336915d83398462ab43c08b2bf2ffec8b151373cc4c3c10ce81e5253ac11613c4a82da0f6649a4f39b68b1b0db94cd527393193fc843a81d42aafb9318e8e687713ed9e5f9291be82a0e5c31adc6df296a5c37d6e476d111ac645facc528d7d943889de032d597a41afb15cd0c98c0d672c1cd0c07ddc0114b4dec4d28b5e7bf9611d5bfa69960e563b82673a0e82479cb635629c3e70ec775adf5d268b56f3a82694ff3b8495e22b6ba121cbd0d10a6ee511df62b95ec73a491a/8/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb54391c65736d8684cb366ecef040a0f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff17c5c17b90d6c5066c0bf0ca87e4fc4815c8a627b8efcde7c3f7f0f5b9b585ae0a558f6f783fc74e2449960e785a7057782e150f4b142e2c4810f8e20c227b541deb0d8b1e16ef3a60cb7646598592757306991c0589ecc4fbfd99b1348f4e2f7827c278c9492ed463588405753f6bdb8d7d57d8eacfb47b7414dd336915d83398462ab43c08b2bf2ffec8b151373cc4c3c10ce81e5253ac11613c4a82da0f6649a4f39b68b1b0db94cd527393193fc843a81d42aafb9318e8e687713ed9e5f9291be82a0e5c31adc6df296a5c37d6e476d111ac645facc528d7d943889de032d597a41afb15cd0c98c0d672c1cd0c07ddc0114b4dec4d28b5e7bf9611d5bfa69960e563b82673a0e82479cb635629c3e70ec775adf5d268b56f3a82694ff3b8495e22b6ba121cbd0d10a6ee511df62b95ec73a491a/8/640x360_1057680/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://amogonetworx-grjngo-2-eu.plex.wurl.tv/512.m3u8
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+https://appletree-mytimespain-rakuten.amagi.tv/360p/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
@@ -36,15 +32,13 @@ https://crtvg-europa.flumotion.cloud/crtvg/europa_low/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://isaocorp.cloudecast.com/recon/index.m3u8
+https://live.wayone.cloud/waytv/waytv1/chunklist_w345876996_ao.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://isaocorp.cloudecast.com/recon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://live.wayone.cloud/waytv/waytv1/chunklist_w1648723365_ao.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://live.wayone.cloud/waytv/waytv1/chunklist_w1648723365_vo.m3u8
+https://live.wayone.cloud/waytv/waytv1/chunklist_w345876996_vo.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://live.wayone.cloud/waytv/waytv1/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
@@ -52,43 +46,53 @@ https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://s1.tvr.ovh/video10934/video10934/chunklist_w1148376520.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://s1.tvr.ovh/video10934/video10934/playlist.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://srv1954587.hstgr.cloud:8888/video01/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://srv1954587.hstgr.cloud:8888/video01/index.m3u8?cookieCheck=1
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://srv1954587.hstgr.cloud:8888/video01/main_stream.m3u8?session=2ab04127-af4d-4138-af34-15f412c6a61b
+https://srv1954587.hstgr.cloud:8888/video01/main_stream.m3u8?session=1f1832d2-bf2e-4cff-975f-849a0775fe66
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=mx345529
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=2q11yo60
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://stmv1.voxtvhd.com.br/canalinfantil/canalinfantil/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
+https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+https://stmv2.voxtvhd.com.br/joao1366/joao1366/playlist.m3u8?1789135064
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
@@ -100,96 +104,90 @@ https://tv.rbti.tv.br/rbti1/720p/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://tv.rbti.tv.br/rbti1/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://tv.rbti.tv.br/rbti2/540p/index.m3u8
+https://tv.rbti.tv.br/rbti4/720p/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://tv.rbti.tv.br/rbti2/index.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w496950118.m3u8
+https://tv.rbti.tv.br/rbti4/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_900000=10003.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1719909396.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8
+https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8?hls_ctx=x105h921
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w995865130.m3u8
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w586907720.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video04.logicahost.com.br/schamlztv/schamlztv/chunklist_w2052132304.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1462236000.m3u8
+https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1843249286.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w1307658687.m3u8
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w784064242.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video05.logicahost.com.br/rsnews/rsnews/chunklist_w55854701.m3u8
+https://video07.logicahost.com.br/rsnews01/rsnews01/chunklist_w2090102971.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w507934581.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w1480124633.m3u8
+https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w597257631.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video07.logicahost.com.br/rstv1/rstv1/chunklist_w21910444.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w344263856.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video09.logicahost.com.br/tvgazin/tvgazin/chunklist_w1485451483.m3u8
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w230245795.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
+https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/chunklist_w1807436241.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w1381169115.m3u8
+https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/chunklist_w1084676612.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
+https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w501340921.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8
+https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w998516962.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w155564472.m3u8
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w144675035.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://video10.logicahost.com.br/tvmon/tvmon/chunklist_w744730133.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
+https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w1474950777.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video11.logicahost.com.br/comunidadefm/comunidadefm/chunklist_w658836673.m3u8
+https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w608110187_b413000_sleng.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video11.logicahost.com.br/detetives/detetives/chunklist_w169446306.m3u8
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1943322522_b413000_sleng.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video11.logicahost.com.br/gramadotv/gramadotv/chunklist_w1658048068.m3u8
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/chunklist_w1812218325_b413000_sleng.m3u8
 #EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w446844418_b413000_sleng.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1710433414_b413000_sleng.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Guia de programacao" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Guia de programacao
-https://www.latinasat.com.br/hls/live/stream/index.m3u8
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
