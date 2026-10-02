@@ -41,12 +41,25 @@ def normalize_url(url, base=BASE):
     return urljoin(base, url)
 
 def channel_name(page_title, link_text, headings):
+    # O site pode colocar "Guia de programação" em um H1/H2 genérico.
+    # Esse texto nunca deve ser usado como nome do canal no M3U.
+    bad = {
+        "home", "início", "inicio", "assistir", "play", "ao vivo",
+        "batista play", "guia de programação", "guia de programacao",
+        "programação", "programacao",
+    }
+
     for value in (link_text, *headings, page_title):
         value = clean(value)
         if value and len(value) <= 120:
-            bad = {"home", "início", "inicio", "assistir", "play", "ao vivo", "batista play"}
-            if value.casefold() not in bad:
-                return value
+            normalized = value.casefold().strip(" -|:")
+            if normalized in bad:
+                continue
+            # Também ignora títulos que sejam apenas uma variação de
+            # "Guia de programação", preservando o restante da página.
+            if re.fullmatch(r"guia\s+de\s+programa(?:ç(?:ão|oes)|coes|cao)", normalized, re.I):
+                continue
+            return value
     return "Canal"
 
 def category_from_context(text):
