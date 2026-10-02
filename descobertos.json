@@ -1,9 +1,575 @@
 {
   "site": "https://www.batistaplay.net/",
-  "paginas_analisadas": 0,
-  "paginas_descobertas": 0,
-  "streams_descobertos": 0,
-  "streams_ativos": 0,
-  "canais": [],
-  "erros": []
+  "paginas_analisadas": 80,
+  "paginas_descobertas": 175,
+  "streams_descobertos": 97,
+  "streams_ativos": 94,
+  "canais": [
+    {
+      "name": "Cine Clássicos 2",
+      "category": "Geral",
+      "url": "https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8",
+      "source": "https://www.batistaplay.net/channel/35e86d0d-511e-4af5-aee9-7ae97eced06a"
+    },
+    {
+      "name": "Cine Play - A Fortaleza",
+      "category": "Geral",
+      "url": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/6ecc7fa4-1b6b-48ea-a752-0be15dd46926"
+    },
+    {
+      "name": "Gazin de AZ (ao vivo)",
+      "category": "Geral",
+      "url": "https://video09.logicahost.com.br/tvgazin/tvgazin/chunklist_w353438744.m3u8",
+      "source": "https://www.batistaplay.net/channel/14c2fd90-377b-49dc-a5ec-d86248846dd3"
+    },
+    {
+      "name": "Gazin de AZ (ao vivo)",
+      "category": "Geral",
+      "url": "https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/14c2fd90-377b-49dc-a5ec-d86248846dd3"
+    },
+    {
+      "name": "Homem Aranha e Seus Incríveis Amigos",
+      "category": "Geral",
+      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
+      "source": "https://www.batistaplay.net/channel/d55e6124-b670-4793-98c3-838e4a0e5ca4"
+    },
+    {
+      "name": "MacGyver",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8",
+      "source": "https://www.batistaplay.net/channel/a90dd84c-0075-438c-8225-5038b30b2440"
+    },
+    {
+      "name": "Magazine",
+      "category": "Geral",
+      "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/dbf60ad8-c48e-4a9c-a733-01d14971cd6b"
+    },
+    {
+      "name": "Mulheres",
+      "category": "Geral",
+      "url": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1401461237.m3u8",
+      "source": "https://www.batistaplay.net/channel/e70492b6-138e-4774-a737-e80e3f91a527"
+    },
+    {
+      "name": "Mulheres",
+      "category": "Geral",
+      "url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/e70492b6-138e-4774-a737-e80e3f91a527"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
+      "source": "https://www.batistaplay.net/channel/b06ef903-509d-4c2a-981b-332a4f0dcb86"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/419b5d23-bbe4-470c-ab64-8190baa63016/0.m3u8",
+      "source": "https://www.batistaplay.net/channel/d61e6dac-141a-4537-a623-4b944750ab2b"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/d61e6dac-141a-4537-a623-4b944750ab2b"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1632503523.m3u8",
+      "source": "https://www.batistaplay.net/channel/15a69795-90dd-4a12-bfd4-249ef22a29d9"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/15a69795-90dd-4a12-bfd4-249ef22a29d9"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/94be7b80-724c-43f6-abac-42e6398ac618"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
+      "source": "https://www.batistaplay.net/channel/6c70ce97-081d-4f5e-8757-8ff0b322b89e"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8",
+      "source": "https://www.batistaplay.net/channel/f91db1b6-ef13-403b-9743-6c5c35d27ed1"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/512.m3u8",
+      "source": "https://www.batistaplay.net/channel/f91db1b6-ef13-403b-9743-6c5c35d27ed1"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/f91db1b6-ef13-403b-9743-6c5c35d27ed1"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+      "source": "https://www.batistaplay.net/channel/982b6399-b60a-4f32-8298-a6edc8dd4cfa"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8",
+      "source": "https://www.batistaplay.net/channel/9f0d976f-758a-4baf-86ff-5eb4e1057e34"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/9f0d976f-758a-4baf-86ff-5eb4e1057e34"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8",
+      "source": "https://www.batistaplay.net/channel/c12a5dd9-7cfe-4458-8e22-bde44c428453"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/c12a5dd9-7cfe-4458-8e22-bde44c428453"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/chunklist.m3u8",
+      "source": "https://www.batistaplay.net/channel/7e01e881-4761-44fb-8bc7-2c3c05583b2f"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/7e01e881-4761-44fb-8bc7-2c3c05583b2f"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8",
+      "source": "https://www.batistaplay.net/channel/1ff7d463-c2b2-48b2-a6fc-7b70022e252b"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://crtvg-europa.flumotion.cloud/crtvg/europa_low/chunks_dvr.m3u8",
+      "source": "https://www.batistaplay.net/channel/1ff7d463-c2b2-48b2-a6fc-7b70022e252b"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
+      "source": "https://www.batistaplay.net/channel/1ff7d463-c2b2-48b2-a6fc-7b70022e252b"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
+      "source": "https://www.batistaplay.net/channel/8ee0d499-ff2f-4df3-a62e-6383ba4e3e48"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
+      "source": "https://www.batistaplay.net/channel/22a99401-7b2a-4a8a-af30-129619e1d086"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
+      "source": "https://www.batistaplay.net/channel/81eb76e4-a8a6-4d9f-8d79-8f57ab96d02a"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://s1.tvr.ovh/video10934/video10934/chunklist_w1419774425.m3u8",
+      "source": "https://www.batistaplay.net/channel/591e18f2-e5d6-4045-82d0-8499773d1323"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://s1.tvr.ovh/video10934/video10934/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/591e18f2-e5d6-4045-82d0-8499773d1323"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://srv1954587.hstgr.cloud:8888/video01/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/2137e114-7ce0-44b4-a222-e8c729660f29"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://srv1954587.hstgr.cloud:8888/video01/index.m3u8?cookieCheck=1",
+      "source": "https://www.batistaplay.net/channel/2137e114-7ce0-44b4-a222-e8c729660f29"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://srv1954587.hstgr.cloud:8888/video01/main_stream.m3u8?session=ec096cd4-cffc-44d5-a592-164ca5205352",
+      "source": "https://www.batistaplay.net/channel/2137e114-7ce0-44b4-a222-e8c729660f29"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/0af0d075-c88d-44b8-80a7-dc4b7da6769d"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/825ea069-c98c-462b-8bca-c0684ee3c856"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/765b42fc-fed0-4794-8b42-402ced3c1d1c"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8",
+      "source": "https://www.batistaplay.net/channel/436e3c23-2f95-4350-8313-b73ce75ebaa5"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv2.voxtvhd.com.br/joao1366/joao1366/playlist.m3u8?1789135064",
+      "source": "https://www.batistaplay.net/channel/cc71f73c-b3ed-46b4-825e-d365e20998f6"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/1be5f7c9-7cfd-4c3a-aa46-d20896c5a1ef"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/37f2c966-c2e7-4fe0-8657-14daa7b263c0"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a923e09b-fd46-453e-ada5-645fbabdaeb2"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/87193a64-a71c-45d0-b115-a5092f405c4e"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/7e6c468b-b2b6-4367-858f-29d0005d31a1"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv5.voxtvhd.com.br/atriostv/atriostv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/ed8f5216-ff78-49ed-ba17-ebb66441b182"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a0ff8c8f-66d6-4765-8a56-e0b5b324c69e"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/7bffafa6-6154-4a06-a693-9536043399dc"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+      "source": "https://www.batistaplay.net/channel/fa11ffb7-612d-4f34-9596-be50d2cded34"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w496950118.m3u8",
+      "source": "https://www.batistaplay.net/channel/7e8dd5c2-7894-4e37-9207-77f7c278934c"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
+      "source": "https://www.batistaplay.net/channel/16dee75b-8c92-46f2-a80e-08c1b7ad78e8"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8",
+      "source": "https://www.batistaplay.net/channel/392137b5-a365-413e-8c5b-78b8f2e790f7"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000.m3u8",
+      "source": "https://www.batistaplay.net/channel/91c080e8-a66d-414f-8f51-509371b05511"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/91c080e8-a66d-414f-8f51-509371b05511"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist_w109893731.m3u8",
+      "source": "https://www.batistaplay.net/channel/158ae661-686d-4310-b919-bd2e619535c7"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/158ae661-686d-4310-b919-bd2e619535c7"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w1617632592.m3u8",
+      "source": "https://www.batistaplay.net/channel/004e0730-7fd6-42b4-84d6-3c9fc8f0809a"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/004e0730-7fd6-42b4-84d6-3c9fc8f0809a"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a2e29da0-9e28-493d-bab8-9b1cb834bae6"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w981966672.m3u8",
+      "source": "https://www.batistaplay.net/channel/195fee46-d4df-4b62-9e22-ff5d6016df83"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/195fee46-d4df-4b62-9e22-ff5d6016df83"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1041349383.m3u8",
+      "source": "https://www.batistaplay.net/channel/f23be023-4801-4e65-848c-7e05b05a57ee"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w1284849875.m3u8",
+      "source": "https://www.batistaplay.net/channel/aa40174d-254b-4e58-ae34-9fcc0ae005e0"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/aa40174d-254b-4e58-ae34-9fcc0ae005e0"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w362793146.m3u8",
+      "source": "https://www.batistaplay.net/channel/9928febc-9ae2-4ba2-a1ac-5fb0904c8de2"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/9928febc-9ae2-4ba2-a1ac-5fb0904c8de2"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w1176621834.m3u8",
+      "source": "https://www.batistaplay.net/channel/da6c6541-c647-4481-8960-6db4aebff520"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/da6c6541-c647-4481-8960-6db4aebff520"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w1276020321.m3u8",
+      "source": "https://www.batistaplay.net/channel/41dcaba8-686f-475d-9e5f-f2d3e01c24dc"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/41dcaba8-686f-475d-9e5f-f2d3e01c24dc"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/chunklist_w1306461374.m3u8",
+      "source": "https://www.batistaplay.net/channel/1b60eee3-b107-4f66-8507-e40b945468e3"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/1b60eee3-b107-4f66-8507-e40b945468e3"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/detetives/detetives/chunklist_w868797777.m3u8",
+      "source": "https://www.batistaplay.net/channel/6ba3203a-0729-4751-b717-96c87d411f8f"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/6ba3203a-0729-4751-b717-96c87d411f8f"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/gramadotv/gramadotv/chunklist_w1772452014.m3u8",
+      "source": "https://www.batistaplay.net/channel/ac76af5f-b358-4d4e-b653-72f869f5459e"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/ac76af5f-b358-4d4e-b653-72f869f5459e"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/1cff97eb-7dc7-4f5c-a6d0-393cdcf5d851"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w467223195_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/3819c849-81e6-4892-9c9d-07903946d3d9"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/3819c849-81e6-4892-9c9d-07903946d3d9"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w368564064_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/7823c144-5f69-4ede-9361-4cd20e86085b"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/7823c144-5f69-4ede-9361-4cd20e86085b"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w2076118058_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/ebed453b-f0f4-4e13-ad0d-88685fb69ced"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/ebed453b-f0f4-4e13-ad0d-88685fb69ced"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w2059895462_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/a8aa3743-7aba-4cd2-b878-67757b5fad8c"
+    },
+    {
+      "name": "PG Não Informado",
+      "category": "Geral",
+      "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a8aa3743-7aba-4cd2-b878-67757b5fad8c"
+    },
+    {
+      "name": "Sessão Super Herói",
+      "category": "Geral",
+      "url": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1632486221.m3u8",
+      "source": "https://www.batistaplay.net/channel/c757b06d-6285-44b0-81d6-81b6a4169e40"
+    },
+    {
+      "name": "Sessão Super Herói",
+      "category": "Geral",
+      "url": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/c757b06d-6285-44b0-81d6-81b6a4169e40"
+    },
+    {
+      "name": "Super Ação",
+      "category": "Geral",
+      "url": "https://isaocorp.cloudecast.com/astraltv/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/955c9e6f-9ee4-4072-a9e8-f7c05ada9123"
+    },
+    {
+      "name": "Super Ação",
+      "category": "Geral",
+      "url": "https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8",
+      "source": "https://www.batistaplay.net/channel/955c9e6f-9ee4-4072-a9e8-f7c05ada9123"
+    },
+    {
+      "name": "SUPREME MASTER TV (PUBLICIDAD)",
+      "category": "Geral",
+      "url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8",
+      "source": "https://www.batistaplay.net/channel/25a4cf65-6cd2-40d5-9592-89bc307c3996"
+    },
+    {
+      "name": "Viagem na História",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w1058240288.m3u8",
+      "source": "https://www.batistaplay.net/channel/81cd9fad-ff6d-48d5-ac3a-60536e35c2e0"
+    },
+    {
+      "name": "Viagem na História",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/81cd9fad-ff6d-48d5-ac3a-60536e35c2e0"
+    }
+  ],
+  "erros": [],
+  "atualizado_em": "2026-10-02 19:13:58 UTC"
 }
