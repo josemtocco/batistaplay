@@ -1,1 +1,203 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Cine Clássicos 2" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Cine Clássicos 2
+https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8
+#EXTINF:-1 tvg-name="Cine Trash" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Cine Trash
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1319654769.m3u8
+#EXTINF:-1 tvg-name="Cine Trash" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Cine Trash
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb563d1d7f6c668d84cd3e78d3f262dba65928d80b6c852a6ab454876da91e588eac8d9ab30ea778149719b1670e74412c278b458b1b5495a523ec4e317f106a999ea20881db4d54e7c70e2e2aa3194f07af4c4ccf20502597ba4c4ac168ec2e0445ec5d3e1b3088e40ab07753938117da2a288ab08b6731290c59960e0ee5f659c1afdb757d09976c83367af04c57dae71c909049ef90b71fcf07d335d33ca7a08efaf38d564ba3499429ed261d50625c94856b9aca5cccbad0096bda19a0216fd6235837bece1ea63edb6f7b3a30ab5d5f59a1a82884723eb801d76c8c39896aad069de0248b80b4c54b4d35a58b0e2f77e0ad98dbaa6e73916ff5b7f19d6b24cfc9422c0e894cc832273da7f8c93f8dd75ac3e574cbe73f5d1bc8834a9698fdd2bbe0cd799d23cbd5fdd76811192d5754f43ac8ff41d227c860d2a75146784857a68e5ad48cbb0f66822e717cbe62755b9d442cccc7a5ff7613bfabab82f0b1/16/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb563d1d7f6c668d84cd3e78d3f262dba65928d80b6c852a6ab454876da91e588eac8d9ab30ea778149719b1670e74412c278b458b1b5495a523ec4e317f106a999ea20881db4d54e7c70e2e2aa3194f07af4c4ccf20502597ba4c4ac168ec2e0445ec5d3e1b3088e40ab07753938117da2a288ab08b6731290c59960e0ee5f659c1afdb757d09976c83367af04c57dae71c909049ef90b71fcf07d335d33ca7a08efaf38d564ba3499429ed261d50625c94856b9aca5cccbad0096bda19a0216fd6235837bece1ea63edb6f7b3a30ab5d5f59a1a82884723eb801d76c8c39896aad069de0248b80b4c54b4d35a58b0e2f77e0ad98dbaa6e73916ff5b7f19d6b24cfc9422c0e894cc832273da7f8c93f8dd75ac3e574cbe73f5d1bc8834a9698fdd2bbe0cd799d23cbd5fdd76811192d5754f43ac8ff41d227c860d2a75146784857a68e5ad48cbb0f66822e717cbe62755b9d442cccc7a5ff7613bfabab82f0b1/16/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/512.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://appletree-mytimespain-rakuten.amagi.tv/360p/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://crtvg-europa.flumotion.cloud/crtvg/europa_low/chunks_dvr.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://live.wayone.cloud/waytv/waytv1/chunklist_w1556604631_ao.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://live.wayone.cloud/waytv/waytv1/chunklist_w1556604631_vo.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://live.wayone.cloud/waytv/waytv1/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://s1.tvr.ovh/video10934/video10934/chunklist_w674016557.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://s1.tvr.ovh/video10934/video10934/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://srv1954587.hstgr.cloud:8888/video01/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://srv1954587.hstgr.cloud:8888/video01/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://srv1954587.hstgr.cloud:8888/video01/main_stream.m3u8?session=579b3141-a3a5-4068-bce8-b297b08e2f3f
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://tv.rbti.tv.br/rbti1/720p/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://tv.rbti.tv.br/rbti1/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://tv.rbti.tv.br/rbti2/540p/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://tv.rbti.tv.br/rbti2/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://tv.rbti.tv.br/rbti4/index.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w496950118.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video04.logicahost.com.br/schamlztv/schamlztv/chunklist_w337266774.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w821815150.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w186080291.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w338161464.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rssports02/rssports02/chunklist_w1330145374.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w841257311.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w312892364.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video11.logicahost.com.br/comunidadefm/comunidadefm/chunklist_w1234462649.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video11.logicahost.com.br/detetives/detetives/chunklist_w47114837.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1394771951_b413000_sleng.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1900571225_b413000_sleng.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w588052735_b413000_sleng.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/chunklist_w772968931_b413000_sleng.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w14077890_b413000_sleng.m3u8
+#EXTINF:-1 tvg-name="Conteúdo sob demanda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conteúdo sob demanda
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="FILME" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",FILME
+https://video10.logicahost.com.br/caipira/caipira/chunklist_w1674070007.m3u8
+#EXTINF:-1 tvg-name="FILME" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",FILME
+https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
+#EXTINF:-1 tvg-name="FILME" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",FILME
+https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/chunklist_w901214928.m3u8
+#EXTINF:-1 tvg-name="FILME" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",FILME
+https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
+#EXTINF:-1 tvg-name="Hora Animada" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Hora Animada
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8
+#EXTINF:-1 tvg-name="Mulheres" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Mulheres
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-name="Peewee" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Peewee
+https://video10.logicahost.com.br/tvmon/tvmon/chunklist_w1832897869.m3u8
+#EXTINF:-1 tvg-name="Peewee" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Peewee
+https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Ranger – Força Animal" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Power Ranger – Força Animal
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
+#EXTINF:-1 tvg-name="SUPREME MASTER TV (PUBLICIDAD)" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",SUPREME MASTER TV (PUBLICIDAD)
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8
+#EXTINF:-1 tvg-name="TJ Aparecida" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",TJ Aparecida
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1 tvg-name="Viagem na História" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Viagem na História
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w723747568.m3u8
+#EXTINF:-1 tvg-name="Viagem na História" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Viagem na História
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
