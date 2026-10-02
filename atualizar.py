@@ -40,13 +40,14 @@ def normalize_url(url, base=BASE):
     url = url.replace("\\/", "/").replace("\\u0026", "&").strip().strip("'\"")
     return urljoin(base, url)
 
-def channel_name(page_title, link_text, headings):
+def channel_name(page_title, link_text, headings, source_url=""):
     # O site pode colocar "Guia de programação" em um H1/H2 genérico.
     # Esse texto nunca deve ser usado como nome do canal no M3U.
     bad = {
         "home", "início", "inicio", "assistir", "play", "ao vivo",
         "batista play", "guia de programação", "guia de programacao",
         "programação", "programacao",
+        "pg não informado", "pg nao informado",
     }
 
     for value in (link_text, *headings, page_title):
@@ -59,7 +60,23 @@ def channel_name(page_title, link_text, headings):
             # "Guia de programação", preservando o restante da página.
             if re.fullmatch(r"guia\s+de\s+programa(?:ç(?:ão|oes)|coes|cao)", normalized, re.I):
                 continue
+            if re.fullmatch(r"pg\s+n(?:ã|a)o\s+informad(?:o|a)", normalized, re.I):
+                continue
             return value
+
+    # Último recurso: usa o slug da própria página. Isso evita gravar
+    # placeholders como "PG Não Informado" quando o site não fornece
+    # um título textual utilizável.
+    if source_url:
+        path = urlparse(source_url).path.strip("/")
+        if path:
+            slug = path.split("/")[-1]
+            slug = re.sub(r"[-_]+", " ", slug)
+            slug = clean(slug)
+            if slug and slug.casefold() not in bad and not re.fullmatch(
+                r"pg\s+n(?:ã|a)o\s+informad(?:o|a)", slug, re.I
+            ):
+                return slug.title()
     return "Canal"
 
 def category_from_context(text):
@@ -149,7 +166,7 @@ async def extract_page(page, url, records, discovered_pages):
     for stream in candidates:
         if stream.lower().startswith(("http://","https://")):
             records.append({
-                "name": channel_name(title, "", headings),
+                "name": channel_name(title, "", headings, url),
                 "category": category_from_context(" ".join(headings) + " " + page_text[:4000]),
                 "url": stream,
                 "source": url,
@@ -160,7 +177,7 @@ async def extract_page(page, url, records, discovered_pages):
         u = response.url
         if re.search(r"\.(m3u8|mpd)(?:\?|$)", u, re.I):
             records.append({
-                "name": channel_name(title, "", headings),
+                "name": channel_name(title, "", headings, url),
                 "category": category_from_context(" ".join(headings) + " " + page_text[:4000]),
                 "url": u,
                 "source": url,
