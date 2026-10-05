@@ -2,56 +2,80 @@
   "site": "https://www.batistaplay.net/",
   "paginas_analisadas": 80,
   "paginas_descobertas": 176,
-  "streams_descobertos": 92,
-  "streams_ativos": 89,
+  "streams_descobertos": 104,
+  "streams_ativos": 103,
   "canais": [
     {
-      "name": "Caravana do Desenho",
+      "name": "Cine BSTV",
       "category": "Geral",
-      "url": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/6ecc7fa4-1b6b-48ea-a752-0be15dd46926"
+      "url": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w1830252708.m3u8",
+      "source": "https://www.batistaplay.net/channel/f35e520a-1196-4094-b4c1-9e74dc8b56f8"
     },
     {
-      "name": "Chips",
+      "name": "Cine BSTV",
       "category": "Geral",
-      "url": "https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w917663335.m3u8",
-      "source": "https://www.batistaplay.net/channel/23f2b6db-5891-452c-942e-4c204fe421c5"
+      "url": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/f35e520a-1196-4094-b4c1-9e74dc8b56f8"
     },
     {
-      "name": "Chips",
+      "name": "Clipes",
       "category": "Geral",
-      "url": "https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/23f2b6db-5891-452c-942e-4c204fe421c5"
+      "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/chunklist_w1400445477.m3u8",
+      "source": "https://www.batistaplay.net/channel/01539648-1168-49a2-bc32-42c597e290c0"
     },
     {
-      "name": "Conteúdo sob demanda",
+      "name": "Clipes",
       "category": "Geral",
-      "url": "https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/94be7b80-724c-43f6-abac-42e6398ac618"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8",
-      "source": "https://www.batistaplay.net/channel/f91db1b6-ef13-403b-9743-6c5c35d27ed1"
+      "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/01539648-1168-49a2-bc32-42c597e290c0"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/512.m3u8",
-      "source": "https://www.batistaplay.net/channel/f91db1b6-ef13-403b-9743-6c5c35d27ed1"
+      "url": "https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
+      "source": "https://www.batistaplay.net/channel/b06ef903-509d-4c2a-981b-332a4f0dcb86"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/f91db1b6-ef13-403b-9743-6c5c35d27ed1"
+      "url": "https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/730c9289-3b59-429d-b937-1aebac531ffe/0.m3u8",
+      "source": "https://www.batistaplay.net/channel/d61e6dac-141a-4537-a623-4b944750ab2b"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/d0d0df8b-8647-4311-9c09-ebda691733e9"
+      "url": "https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/730c9289-3b59-429d-b937-1aebac531ffe/5.m3u8",
+      "source": "https://www.batistaplay.net/channel/d61e6dac-141a-4537-a623-4b944750ab2b"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/d61e6dac-141a-4537-a623-4b944750ab2b"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1088042855.m3u8",
+      "source": "https://www.batistaplay.net/channel/15a69795-90dd-4a12-bfd4-249ef22a29d9"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/15a69795-90dd-4a12-bfd4-249ef22a29d9"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/b7237109-bcf2-4c77-a76d-d872530784ff"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
+      "source": "https://www.batistaplay.net/channel/6c70ce97-081d-4f5e-8757-8ff0b322b89e"
     },
     {
       "name": "Conteúdo sob demanda",
@@ -74,20 +98,32 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8",
-      "source": "https://www.batistaplay.net/channel/0ea56720-0ad1-452e-86a0-6ea0b69c30cd"
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8",
+      "source": "https://www.batistaplay.net/channel/f23be023-4801-4e65-848c-7e05b05a57ee"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/0ea56720-0ad1-452e-86a0-6ea0b69c30cd"
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8",
+      "source": "https://www.batistaplay.net/channel/c12a5dd9-7cfe-4458-8e22-bde44c428453"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8",
-      "source": "https://www.batistaplay.net/channel/72ead52e-0567-4ac4-b7db-1346c4f7c68b"
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/c12a5dd9-7cfe-4458-8e22-bde44c428453"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/chunklist.m3u8",
+      "source": "https://www.batistaplay.net/channel/7e01e881-4761-44fb-8bc7-2c3c05583b2f"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/7e01e881-4761-44fb-8bc7-2c3c05583b2f"
     },
     {
       "name": "Conteúdo sob demanda",
@@ -98,50 +134,14 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://live.wayone.cloud/waytv/waytv1/chunklist_w1615171562_ao.m3u8",
-      "source": "https://www.batistaplay.net/channel/d7025edb-91eb-4162-9ad3-8b85da9f2624"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://live.wayone.cloud/waytv/waytv1/chunklist_w1615171562_vo.m3u8",
-      "source": "https://www.batistaplay.net/channel/d7025edb-91eb-4162-9ad3-8b85da9f2624"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://live.wayone.cloud/waytv/waytv1/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/d7025edb-91eb-4162-9ad3-8b85da9f2624"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8",
-      "source": "https://www.batistaplay.net/channel/e6ce3906-fb50-4c14-a38e-ed53002d9c47"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/e6ce3906-fb50-4c14-a38e-ed53002d9c47"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8",
       "source": "https://www.batistaplay.net/channel/a4bfb3c2-6caf-4eb3-89bf-57bde64e5e4d"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/75c9cf47-93f0-475f-87f4-3c9508ddb560"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://media2.cdntvms.com.br/tv_morena_dorados/tracks-v1a1/mono.m3u8",
-      "source": "https://www.batistaplay.net/channel/75c9cf47-93f0-475f-87f4-3c9508ddb560"
+      "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
+      "source": "https://www.batistaplay.net/channel/81eb76e4-a8a6-4d9f-8d79-8f57ab96d02a"
     },
     {
       "name": "Conteúdo sob demanda",
@@ -158,26 +158,26 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/0af0d075-c88d-44b8-80a7-dc4b7da6769d"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
       "url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
       "source": "https://www.batistaplay.net/channel/02087be1-4df9-4fc8-af00-201876b563a1"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/825ea069-c98c-462b-8bca-c0684ee3c856"
+      "url": "https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/1846df83-5974-4ebd-bdd2-f0b09b5198d6"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/765b42fc-fed0-4794-8b42-402ced3c1d1c"
+      "url": "https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/65473182-101f-45db-9ab2-c21ec1f2b1dd"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/ffbe650a-5c89-49cc-831b-87fc974f25d3"
     },
     {
       "name": "Conteúdo sob demanda",
@@ -188,8 +188,32 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/f7983bd2-d2e5-4443-a70a-92ef267b1cc2"
+      "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/1d195393-519d-4904-94f5-b5528f58b678"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://stmv2.voxtvhd.com.br/joao1366/joao1366/playlist.m3u8?1789135064",
+      "source": "https://www.batistaplay.net/channel/cc71f73c-b3ed-46b4-825e-d365e20998f6"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/1be5f7c9-7cfd-4c3a-aa46-d20896c5a1ef"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/f9a115d6-53f7-4e27-b4bc-023d486320c8"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a923e09b-fd46-453e-ada5-645fbabdaeb2"
     },
     {
       "name": "Conteúdo sob demanda",
@@ -200,8 +224,8 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/7e6c468b-b2b6-4367-858f-29d0005d31a1"
+      "url": "https://stmv5.voxtvhd.com.br/atriostv/atriostv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/ed8f5216-ff78-49ed-ba17-ebb66441b182"
     },
     {
       "name": "Conteúdo sob demanda",
@@ -212,14 +236,8 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/63cea763-5670-4f71-968f-8b0abb9c43bd"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/7bffafa6-6154-4a06-a693-9536043399dc"
+      "url": "https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a0ff8c8f-66d6-4765-8a56-e0b5b324c69e"
     },
     {
       "name": "Conteúdo sob demanda",
@@ -230,8 +248,8 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/1f84313c-ecd9-4de6-9993-13e03fa26bf4"
+      "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+      "source": "https://www.batistaplay.net/channel/fa11ffb7-612d-4f34-9596-be50d2cded34"
     },
     {
       "name": "Conteúdo sob demanda",
@@ -248,14 +266,8 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
-      "source": "https://www.batistaplay.net/channel/16dee75b-8c92-46f2-a80e-08c1b7ad78e8"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/55e4f61f-db8e-4395-999d-327d9f7625aa"
+      "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w496950118.m3u8",
+      "source": "https://www.batistaplay.net/channel/7e8dd5c2-7894-4e37-9207-77f7c278934c"
     },
     {
       "name": "Conteúdo sob demanda",
@@ -266,7 +278,19 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w853353169.m3u8",
+      "url": "https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_900000=10003.m3u8",
+      "source": "https://www.batistaplay.net/channel/91c080e8-a66d-414f-8f51-509371b05511"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+      "source": "https://www.batistaplay.net/channel/91c080e8-a66d-414f-8f51-509371b05511"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1066481669.m3u8",
       "source": "https://www.batistaplay.net/channel/7669e341-e627-458d-a8fe-64dd9b2791b5"
     },
     {
@@ -290,49 +314,73 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8",
-      "source": "https://www.batistaplay.net/channel/84f44dce-db51-460b-99bf-583582a75d32"
+      "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w851061484.m3u8",
+      "source": "https://www.batistaplay.net/channel/cdd9e076-37e4-48ac-9b30-508e2a03a280"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video04.logicahost.com.br/schamlztv/schamlztv/chunklist_w2127092496.m3u8",
-      "source": "https://www.batistaplay.net/channel/95f5f806-51e6-4190-afa8-ba3c99b2cab6"
+      "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/cdd9e076-37e4-48ac-9b30-508e2a03a280"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/95f5f806-51e6-4190-afa8-ba3c99b2cab6"
+      "url": "https://video07.logicahost.com.br/rssports02/rssports02/chunklist_w467458812.m3u8",
+      "source": "https://www.batistaplay.net/channel/8be325a3-b6c6-41f0-b9af-100a107a94bb"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video07.logicahost.com.br/rsnews01/rsnews01/chunklist_w246452347.m3u8",
-      "source": "https://www.batistaplay.net/channel/a2e29da0-9e28-493d-bab8-9b1cb834bae6"
+      "url": "https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/8be325a3-b6c6-41f0-b9af-100a107a94bb"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/a2e29da0-9e28-493d-bab8-9b1cb834bae6"
+      "url": "https://video07.logicahost.com.br/rssports05/rssports05/chunklist_w1015879434.m3u8",
+      "source": "https://www.batistaplay.net/channel/2def6f46-9cd0-4d3f-9834-b6921ac61cfb"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w445836089.m3u8",
-      "source": "https://www.batistaplay.net/channel/7d35ebff-c21f-421d-9839-55769b990ce6"
+      "url": "https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/2def6f46-9cd0-4d3f-9834-b6921ac61cfb"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/7d35ebff-c21f-421d-9839-55769b990ce6"
+      "url": "https://video07.logicahost.com.br/rstv1/rstv1/chunklist_w1469294650.m3u8",
+      "source": "https://www.batistaplay.net/channel/afd10384-b7c2-4cb7-8cf0-409e5162a9c3"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w506012681.m3u8",
+      "url": "https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/afd10384-b7c2-4cb7-8cf0-409e5162a9c3"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8",
+      "source": "https://www.batistaplay.net/channel/9bca31c4-f185-4dbb-aaca-2bc0b6bf36a4"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w2122147098.m3u8",
+      "source": "https://www.batistaplay.net/channel/aa40174d-254b-4e58-ae34-9fcc0ae005e0"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/aa40174d-254b-4e58-ae34-9fcc0ae005e0"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w800497262.m3u8",
       "source": "https://www.batistaplay.net/channel/9928febc-9ae2-4ba2-a1ac-5fb0904c8de2"
     },
     {
@@ -344,7 +392,7 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/chunklist_w714807979.m3u8",
+      "url": "https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/chunklist_w1572988733.m3u8",
       "source": "https://www.batistaplay.net/channel/324c71f4-85f2-4c17-a7f3-0871c9744d64"
     },
     {
@@ -356,19 +404,31 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w365718628.m3u8",
-      "source": "https://www.batistaplay.net/channel/41dcaba8-686f-475d-9e5f-f2d3e01c24dc"
+      "url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w561613443.m3u8",
+      "source": "https://www.batistaplay.net/channel/da6c6541-c647-4481-8960-6db4aebff520"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/41dcaba8-686f-475d-9e5f-f2d3e01c24dc"
+      "url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/da6c6541-c647-4481-8960-6db4aebff520"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/detetives/detetives/chunklist_w369846119.m3u8",
+      "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/chunklist_w432071037.m3u8",
+      "source": "https://www.batistaplay.net/channel/1b60eee3-b107-4f66-8507-e40b945468e3"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/1b60eee3-b107-4f66-8507-e40b945468e3"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/detetives/detetives/chunklist_w1619586733.m3u8",
       "source": "https://www.batistaplay.net/channel/6ba3203a-0729-4751-b717-96c87d411f8f"
     },
     {
@@ -380,7 +440,19 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/chunklist_w591125973.m3u8",
+      "url": "https://video11.logicahost.com.br/gramadotv/gramadotv/chunklist_w14976182.m3u8",
+      "source": "https://www.batistaplay.net/channel/ac76af5f-b358-4d4e-b653-72f869f5459e"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/ac76af5f-b358-4d4e-b653-72f869f5459e"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/chunklist_w881728833.m3u8",
       "source": "https://www.batistaplay.net/channel/aea4cb31-35f9-4597-86f9-b2f4f09091b9"
     },
     {
@@ -392,7 +464,19 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w85678162_b413000_sleng.m3u8",
+      "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w338422617_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/5209a32d-0f97-41a5-a105-bef038bb954a"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/5209a32d-0f97-41a5-a105-bef038bb954a"
+    },
+    {
+      "name": "Conteúdo sob demanda",
+      "category": "Geral",
+      "url": "https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w582030257_b413000_sleng.m3u8",
       "source": "https://www.batistaplay.net/channel/1728d51b-6316-4729-a334-11415a364ff6"
     },
     {
@@ -404,31 +488,13 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w586245720_b413000_sleng.m3u8",
-      "source": "https://www.batistaplay.net/channel/7823c144-5f69-4ede-9361-4cd20e86085b"
+      "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8",
+      "source": "https://www.batistaplay.net/channel/1cff97eb-7dc7-4f5c-a6d0-393cdcf5d851"
     },
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/7823c144-5f69-4ede-9361-4cd20e86085b"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w639109660_b413000_sleng.m3u8",
-      "source": "https://www.batistaplay.net/channel/7379cc9c-c926-44c2-9a63-5983ad1a6e7e"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/7379cc9c-c926-44c2-9a63-5983ad1a6e7e"
-    },
-    {
-      "name": "Conteúdo sob demanda",
-      "category": "Geral",
-      "url": "https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1499560006_b413000_sleng.m3u8",
+      "url": "https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w485910014_b413000_sleng.m3u8",
       "source": "https://www.batistaplay.net/channel/a45bca6e-6c1d-4fcc-a190-21164710e8da"
     },
     {
@@ -440,7 +506,7 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w488633187_b413000_sleng.m3u8",
+      "url": "https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w284553485_b413000_sleng.m3u8",
       "source": "https://www.batistaplay.net/channel/ebed453b-f0f4-4e13-ad0d-88685fb69ced"
     },
     {
@@ -452,7 +518,7 @@
     {
       "name": "Conteúdo sob demanda",
       "category": "Geral",
-      "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1032324018_b413000_sleng.m3u8",
+      "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1837812732_b413000_sleng.m3u8",
       "source": "https://www.batistaplay.net/channel/a8aa3743-7aba-4cd2-b878-67757b5fad8c"
     },
     {
@@ -462,84 +528,102 @@
       "source": "https://www.batistaplay.net/channel/a8aa3743-7aba-4cd2-b878-67757b5fad8c"
     },
     {
-      "name": "FILME",
+      "name": "Igreja Universal",
       "category": "Geral",
-      "url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/ad6aa8b9-ab3c-46b0-b61e-3c7a1196d62d"
+      "url": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w226201980.m3u8",
+      "source": "https://www.batistaplay.net/channel/e70492b6-138e-4774-a737-e80e3f91a527"
     },
     {
-      "name": "Metabots (Maratona)",
+      "name": "Igreja Universal",
       "category": "Geral",
-      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/channel/d55e6124-b670-4793-98c3-838e4a0e5ca4"
+      "url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/e70492b6-138e-4774-a737-e80e3f91a527"
     },
     {
-      "name": "Missa de Aparecida Santuário Nacional",
+      "name": "Madrugada Cinéfilos",
       "category": "Geral",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8",
-      "source": "https://www.batistaplay.net/channel/a492d7dc-acad-4f1b-9b97-6194b98a5e3d"
+      "url": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8",
+      "source": "https://www.batistaplay.net/channel/a90dd84c-0075-438c-8225-5038b30b2440"
     },
     {
-      "name": "Pica-Pau",
-      "category": "Geral",
-      "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
-      "source": "https://www.batistaplay.net/channel/0612fe23-6a67-46c1-82f1-776ac1c2c799"
-    },
-    {
-      "name": "Programação Não Informada",
-      "category": "Geral",
-      "url": "https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8",
-      "source": "https://www.batistaplay.net/channel/35e86d0d-511e-4af5-aee9-7ae97eced06a"
-    },
-    {
-      "name": "RR News (reprise)",
-      "category": "Geral",
-      "url": "https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/3c5abad5-774f-459e-b979-f13281e9de9d"
-    },
-    {
-      "name": "SESSÃO MATINÊ",
-      "category": "Geral",
-      "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w230245795.m3u8",
-      "source": "https://www.batistaplay.net/channel/9390ab3b-1693-47c5-88b8-66efae623d1f"
-    },
-    {
-      "name": "SUPREME MASTER TV (PUBLICIDAD)",
-      "category": "Geral",
-      "url": "https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w247838530.m3u8",
-      "source": "https://www.batistaplay.net/channel/e400350b-b124-46e0-af68-f2368e2b7a97"
-    },
-    {
-      "name": "SUPREME MASTER TV (PUBLICIDAD)",
-      "category": "Geral",
-      "url": "https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/e400350b-b124-46e0-af68-f2368e2b7a97"
-    },
-    {
-      "name": "SUPREME MASTER TV (PUBLICIDAD)",
-      "category": "Geral",
-      "url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8",
-      "source": "https://www.batistaplay.net/channel/25a4cf65-6cd2-40d5-9592-89bc307c3996"
-    },
-    {
-      "name": "Série D Esportes",
-      "category": "Geral",
-      "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
-      "source": "https://www.batistaplay.net/channel/dbf60ad8-c48e-4a9c-a733-01d14971cd6b"
-    },
-    {
-      "name": "Xícara da Bruxa",
+      "name": "Programação Madrugada Astral",
       "category": "Geral",
       "url": "https://isaocorp.cloudecast.com/astraltv/index.m3u8",
       "source": "https://www.batistaplay.net/channel/955c9e6f-9ee4-4072-a9e8-f7c05ada9123"
     },
     {
-      "name": "Xícara da Bruxa",
+      "name": "Programação Madrugada Astral",
       "category": "Geral",
       "url": "https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8",
       "source": "https://www.batistaplay.net/channel/955c9e6f-9ee4-4072-a9e8-f7c05ada9123"
+    },
+    {
+      "name": "Programação Não Informada",
+      "category": "Geral",
+      "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/dbf60ad8-c48e-4a9c-a733-01d14971cd6b"
+    },
+    {
+      "name": "Programação Não informada",
+      "category": "Geral",
+      "url": "https://video09.logicahost.com.br/tvgazin/tvgazin/chunklist_w30734685.m3u8",
+      "source": "https://www.batistaplay.net/channel/14c2fd90-377b-49dc-a5ec-d86248846dd3"
+    },
+    {
+      "name": "Programação Não informada",
+      "category": "Geral",
+      "url": "https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/14c2fd90-377b-49dc-a5ec-d86248846dd3"
+    },
+    {
+      "name": "Programação Não Informada",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvmon/tvmon/chunklist_w1755150416.m3u8",
+      "source": "https://www.batistaplay.net/channel/f9a9a89b-34e2-45c1-b779-b62c91f48bf3"
+    },
+    {
+      "name": "Programação Não Informada",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/f9a9a89b-34e2-45c1-b779-b62c91f48bf3"
+    },
+    {
+      "name": "Reprise da Programação da Tarde",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w2097490137.m3u8",
+      "source": "https://www.batistaplay.net/channel/a5e542c4-1420-4231-9d7d-f4353dc2ac99"
+    },
+    {
+      "name": "Reprise da Programação da Tarde",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/a5e542c4-1420-4231-9d7d-f4353dc2ac99"
+    },
+    {
+      "name": "Swat",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1052537647.m3u8",
+      "source": "https://www.batistaplay.net/channel/23f2b6db-5891-452c-942e-4c204fe421c5"
+    },
+    {
+      "name": "Swat",
+      "category": "Geral",
+      "url": "https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/23f2b6db-5891-452c-942e-4c204fe421c5"
+    },
+    {
+      "name": "Séries Retrô",
+      "category": "Geral",
+      "url": "https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8",
+      "source": "https://www.batistaplay.net/channel/3c5abad5-774f-459e-b979-f13281e9de9d"
+    },
+    {
+      "name": "Vídeo Clips - K-Pop",
+      "category": "Geral",
+      "url": "https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8",
+      "source": "https://www.batistaplay.net/channel/35e86d0d-511e-4af5-aee9-7ae97eced06a"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-10-04 20:56:00 UTC"
+  "atualizado_em": "2026-10-05 04:22:19 UTC"
 }
