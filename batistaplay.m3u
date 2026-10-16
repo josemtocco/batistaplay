@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Filmes" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Filmes
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
-#EXTINF:-1 tvg-name="Infantis" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Infantis
-https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
 #EXTINF:-1 tvg-name="Internacional" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Internacional
 https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8
 #EXTINF:-1 tvg-name="Notícias" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Notícias
@@ -12,10 +10,10 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 #EXTINF:-1 tvg-name="Religiosos" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Religiosos
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 tvg-name="Todos os Canais" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Todos os Canais
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1165711713.m3u8
+https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w293190601.m3u8
 #EXTINF:-1 tvg-name="TV Aberta" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",TV Aberta
 https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8
 #EXTINF:-1 tvg-name="Variedades" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Variedades
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1057718303.m3u8
+https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w581661210.m3u8
 #EXTINF:-1 tvg-name="Variedades" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Variedades
 https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8

@@ -2,20 +2,14 @@
   "site": "https://www.batistaplay.net/",
   "paginas_analisadas": 17,
   "paginas_descobertas": 17,
-  "streams_descobertos": 10,
-  "streams_ativos": 10,
+  "streams_descobertos": 9,
+  "streams_ativos": 9,
   "canais": [
     {
       "name": "Filmes",
       "category": "Geral",
       "url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
       "source": "https://www.batistaplay.net/categoria/filmes"
-    },
-    {
-      "name": "Infantis",
-      "category": "Geral",
-      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/categoria/infantis"
     },
     {
       "name": "Internacional",
@@ -44,7 +38,7 @@
     {
       "name": "Todos os Canais",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1165711713.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w293190601.m3u8",
       "source": "https://www.batistaplay.net/"
     },
     {
@@ -56,7 +50,7 @@
     {
       "name": "Variedades",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1057718303.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w581661210.m3u8",
       "source": "https://www.batistaplay.net/categoria/variedades"
     },
     {
@@ -67,5 +61,5 @@
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-10-16 16:11:08 UTC"
+  "atualizado_em": "2026-10-16 20:34:42 UTC"
 }
