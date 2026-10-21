@@ -2,8 +2,8 @@
   "site": "https://www.batistaplay.net/",
   "paginas_analisadas": 17,
   "paginas_descobertas": 17,
-  "streams_descobertos": 10,
-  "streams_ativos": 10,
+  "streams_descobertos": 8,
+  "streams_ativos": 7,
   "canais": [
     {
       "name": "Filmes",
@@ -42,30 +42,12 @@
       "source": "https://www.batistaplay.net/categoria/religiosos"
     },
     {
-      "name": "Todos os Canais",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w421479625.m3u8",
-      "source": "https://www.batistaplay.net/"
-    },
-    {
       "name": "TV Aberta",
       "category": "Geral",
       "url": "https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8",
       "source": "https://www.batistaplay.net/categoria/tv-aberta"
-    },
-    {
-      "name": "Variedades",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1763242308.m3u8",
-      "source": "https://www.batistaplay.net/categoria/variedades"
-    },
-    {
-      "name": "Variedades",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/categoria/variedades"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-10-21 11:16:45 UTC"
+  "atualizado_em": "2026-10-21 16:43:02 UTC"
 }
