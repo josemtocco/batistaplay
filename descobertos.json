@@ -3,7 +3,7 @@
   "paginas_analisadas": 17,
   "paginas_descobertas": 17,
   "streams_descobertos": 10,
-  "streams_ativos": 10,
+  "streams_ativos": 9,
   "canais": [
     {
       "name": "Filmes",
@@ -30,12 +30,6 @@
       "source": "https://www.batistaplay.net/categoria/noticias"
     },
     {
-      "name": "Recomendados",
-      "category": "Geral",
-      "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w230245795.m3u8",
-      "source": "https://www.batistaplay.net/categoria/recomendados"
-    },
-    {
       "name": "Religiosos",
       "category": "Geral",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8",
@@ -44,7 +38,7 @@
     {
       "name": "Todos os Canais",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w246496680.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1312444346.m3u8",
       "source": "https://www.batistaplay.net/"
     },
     {
@@ -56,7 +50,7 @@
     {
       "name": "Variedades",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w331803522.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w140038934.m3u8",
       "source": "https://www.batistaplay.net/categoria/variedades"
     },
     {
@@ -67,5 +61,5 @@
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-10-28 12:13:18 UTC"
+  "atualizado_em": "2026-10-28 22:15:55 UTC"
 }
