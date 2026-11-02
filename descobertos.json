@@ -38,7 +38,7 @@
     {
       "name": "Todos os Canais",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w966743801.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w423124888.m3u8",
       "source": "https://www.batistaplay.net/"
     },
     {
@@ -50,7 +50,7 @@
     {
       "name": "Variedades",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w2006753402.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w960238436.m3u8",
       "source": "https://www.batistaplay.net/categoria/variedades"
     },
     {
@@ -61,5 +61,5 @@
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-01 21:45:06 UTC"
+  "atualizado_em": "2026-11-02 04:43:16 UTC"
 }
