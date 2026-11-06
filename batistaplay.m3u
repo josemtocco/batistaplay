@@ -1,41 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Blog" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Blog
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w675498640.m3u8
 #EXTINF:-1 tvg-name="Cazé TV ao vivo, é aqui, no Batista Play" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Cazé TV ao vivo, é aqui, no Batista Play
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w874515938.m3u8
-#EXTINF:-1 tvg-name="Conheça a BSTV Online - um dos nossos canais parceiros!" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conheça a BSTV Online - um dos nossos canais parceiros!
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1686165593.m3u8
-#EXTINF:-1 tvg-name="Conheça a Clouding TV - a sua opção de entretenimento" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conheça a Clouding TV - a sua opção de entretenimento
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w165033798.m3u8
-#EXTINF:-1 tvg-name="Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w469263100.m3u8
-#EXTINF:-1 tvg-name="Dúvidas Frequentes e Ajuda" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Dúvidas Frequentes e Ajuda
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w608956441.m3u8
-#EXTINF:-1 tvg-name="Envie sua Mensagem" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Envie sua Mensagem
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w198963431.m3u8
-#EXTINF:-1 tvg-name="Esportes" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Esportes
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w931049976.m3u8
-#EXTINF:-1 tvg-name="Fox Kids está de volta ao vivo pelo Batista Play" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Fox Kids está de volta ao vivo pelo Batista Play
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w691808469.m3u8
-#EXTINF:-1 tvg-name="Internacional" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Internacional
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w2092898772.m3u8
-#EXTINF:-1 tvg-name="ISTV - A TV dos clássicos!" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",ISTV - A TV dos clássicos!
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1504562332.m3u8
-#EXTINF:-1 tvg-name="ISTV - A TV dos clássicos!" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",ISTV - A TV dos clássicos!
+https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8
+#EXTINF:-1 tvg-name="Cazé TV ao vivo, é aqui, no Batista Play" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Cazé TV ao vivo, é aqui, no Batista Play
 https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8
-#EXTINF:-1 tvg-name="Já Viu TV - Onde o povo se vê!" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Já Viu TV - Onde o povo se vê!
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1170870353.m3u8
-#EXTINF:-1 tvg-name="Latina Sat - uma boa opção de entretenimento para você se divertir!" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Latina Sat - uma boa opção de entretenimento para você se divertir!
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w824064648.m3u8
-#EXTINF:-1 tvg-name="Lucas TV - Uma ótima opção para você" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Lucas TV - Uma ótima opção para você
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1124242801.m3u8
-#EXTINF:-1 tvg-name="Poste de teste do blog Batista Play" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Poste de teste do blog Batista Play
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w266296694.m3u8
-#EXTINF:-1 tvg-name="Religiosos" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Religiosos
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w467667338.m3u8
-#EXTINF:-1 tvg-name="Siga o Batista Play nas Redes Sociais" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Siga o Batista Play nas Redes Sociais
-https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
-#EXTINF:-1 tvg-name="TV Aberta" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",TV Aberta
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w51547773.m3u8
-#EXTINF:-1 tvg-name="TV Clássicos do Cinema - a melhor opção de filmes retrô!" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",TV Clássicos do Cinema - a melhor opção de filmes retrô!
-https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1957942204.m3u8
