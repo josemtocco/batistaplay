@@ -2,166 +2,130 @@
   "site": "https://www.batistaplay.net/",
   "paginas_analisadas": 31,
   "paginas_descobertas": 31,
-  "streams_descobertos": 26,
-  "streams_ativos": 26,
+  "streams_descobertos": 20,
+  "streams_ativos": 20,
   "canais": [
     {
       "name": "Blog",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w2064171484.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w675498640.m3u8",
       "source": "https://www.batistaplay.net/blog"
     },
     {
       "name": "Cazé TV ao vivo, é aqui, no Batista Play",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1278283788.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w874515938.m3u8",
       "source": "https://www.batistaplay.net/blog/caze-tv-ao-vivo-e-aqui-no-batista-play-mvqzfwom"
     },
     {
       "name": "Conheça a BSTV Online - um dos nossos canais parceiros!",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w706104880.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-a-bstv-online-um-dos-nossos-canais-parceiros-mvwoix2s"
-    },
-    {
-      "name": "Conheça a BSTV Online - um dos nossos canais parceiros!",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1686165593.m3u8",
       "source": "https://www.batistaplay.net/blog/conheca-a-bstv-online-um-dos-nossos-canais-parceiros-mvwoix2s"
     },
     {
       "name": "Conheça a Clouding TV - a sua opção de entretenimento",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1012646960.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w165033798.m3u8",
       "source": "https://www.batistaplay.net/blog/conheca-a-clouding-tv-a-sua-opcao-de-entretenimento-mw1dug5s"
     },
     {
       "name": "Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w473142664.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w469263100.m3u8",
       "source": "https://www.batistaplay.net/blog/conheca-acesse-e-divirta-se-com-a-programacao-da-rede-brasil-de-televisao-mvu6yyjz"
     },
     {
       "name": "Dúvidas Frequentes e Ajuda",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1818946.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w608956441.m3u8",
       "source": "https://www.batistaplay.net/page/duvidas"
     },
     {
       "name": "Envie sua Mensagem",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w606830725.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w198963431.m3u8",
       "source": "https://www.batistaplay.net/page/contato"
     },
     {
       "name": "Esportes",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1531760878.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w931049976.m3u8",
       "source": "https://www.batistaplay.net/categoria/esportes"
-    },
-    {
-      "name": "Filmes",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w358793181.m3u8",
-      "source": "https://www.batistaplay.net/categoria/filmes"
     },
     {
       "name": "Fox Kids está de volta ao vivo pelo Batista Play",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w361122488.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w691808469.m3u8",
       "source": "https://www.batistaplay.net/blog/fox-kids-esta-de-volta-ao-vivo-pelo-batista-play-mvzu8s2d"
-    },
-    {
-      "name": "Infantis",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w311775219.m3u8",
-      "source": "https://www.batistaplay.net/categoria/infantis"
     },
     {
       "name": "Internacional",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w782504826.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w2092898772.m3u8",
       "source": "https://www.batistaplay.net/categoria/internacional"
     },
     {
       "name": "ISTV - A TV dos clássicos!",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w927600144.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1504562332.m3u8",
+      "source": "https://www.batistaplay.net/blog/istv-a-tv-dos-classicos-mvpitao6"
+    },
+    {
+      "name": "ISTV - A TV dos clássicos!",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
       "source": "https://www.batistaplay.net/blog/istv-a-tv-dos-classicos-mvpitao6"
     },
     {
       "name": "Já Viu TV - Onde o povo se vê!",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1692837064.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1170870353.m3u8",
       "source": "https://www.batistaplay.net/blog/ja-viu-tv-onde-o-povo-se-ve-mvpivnqw"
+    },
+    {
+      "name": "Latina Sat - uma boa opção de entretenimento para você se divertir!",
+      "category": "Geral",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w824064648.m3u8",
+      "source": "https://www.batistaplay.net/blog/latina-sat-uma-boa-opcao-de-entretenimento-para-voce-se-divertir-mvsol4nj"
     },
     {
       "name": "Lucas TV - Uma ótima opção para você",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w28677945.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1124242801.m3u8",
       "source": "https://www.batistaplay.net/blog/lucas-tv-uma-otima-opcao-para-voce-mvqzddrs"
-    },
-    {
-      "name": "Música",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w956694618.m3u8",
-      "source": "https://www.batistaplay.net/categoria/musica"
-    },
-    {
-      "name": "Notícias",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1039200221.m3u8",
-      "source": "https://www.batistaplay.net/categoria/noticias"
-    },
-    {
-      "name": "Política de Privacidade",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w804752776.m3u8",
-      "source": "https://www.batistaplay.net/page/politica-de-privacidade"
     },
     {
       "name": "Poste de teste do blog Batista Play",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1721426193.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w266296694.m3u8",
       "source": "https://www.batistaplay.net/blog/poste-de-teste-do-blog-batista-play-mvgutd8l"
-    },
-    {
-      "name": "Recomendados",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w466647831.m3u8",
-      "source": "https://www.batistaplay.net/categoria/recomendados"
     },
     {
       "name": "Religiosos",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1350774848.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w467667338.m3u8",
       "source": "https://www.batistaplay.net/categoria/religiosos"
     },
     {
-      "name": "Termos de Serviço",
+      "name": "Siga o Batista Play nas Redes Sociais",
       "category": "Geral",
       "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/termos-de-servico"
+      "source": "https://www.batistaplay.net/page/redes-sociais"
     },
     {
       "name": "TV Aberta",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1151041003.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w51547773.m3u8",
       "source": "https://www.batistaplay.net/categoria/tv-aberta"
     },
     {
       "name": "TV Clássicos do Cinema - a melhor opção de filmes retrô!",
       "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1599332456.m3u8",
+      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w1957942204.m3u8",
       "source": "https://www.batistaplay.net/blog/tv-classicos-do-cinema-a-melhor-opcao-de-filmes-retro-mvsoil3k"
-    },
-    {
-      "name": "Variedades",
-      "category": "Geral",
-      "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/chunklist_w628118081.m3u8",
-      "source": "https://www.batistaplay.net/categoria/variedades"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-06 05:24:38 UTC"
+  "atualizado_em": "2026-11-06 13:56:11 UTC"
 }
