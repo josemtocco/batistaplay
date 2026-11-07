@@ -2,22 +2,28 @@
   "site": "https://www.batistaplay.net/",
   "paginas_analisadas": 33,
   "paginas_descobertas": 33,
-  "streams_descobertos": 2,
-  "streams_ativos": 2,
+  "streams_descobertos": 3,
+  "streams_ativos": 3,
   "canais": [
     {
-      "name": "Fox Kids está de volta ao vivo pelo Batista Play",
+      "name": "Cazé TV ao vivo, é aqui, no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/fox-kids-esta-de-volta-ao-vivo-pelo-batista-play-mvzu8s2d"
+      "source": "https://www.batistaplay.net/blog/caze-tv-ao-vivo-e-aqui-no-batista-play-mvqzfwom"
     },
     {
-      "name": "Fox Kids está de volta ao vivo pelo Batista Play",
+      "name": "Cazé TV ao vivo, é aqui, no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/fox-kids-esta-de-volta-ao-vivo-pelo-batista-play-mvzu8s2d"
+      "source": "https://www.batistaplay.net/blog/caze-tv-ao-vivo-e-aqui-no-batista-play-mvqzfwom"
+    },
+    {
+      "name": "Siga o Batista Play nas Redes Sociais",
+      "category": "Geral",
+      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
+      "source": "https://www.batistaplay.net/page/redes-sociais"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-07 04:52:47 UTC"
+  "atualizado_em": "2026-11-07 12:33:23 UTC"
 }

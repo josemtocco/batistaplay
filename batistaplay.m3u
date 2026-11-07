@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fox Kids está de volta ao vivo pelo Batista Play" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Fox Kids está de volta ao vivo pelo Batista Play
+#EXTINF:-1 tvg-name="Cazé TV ao vivo, é aqui, no Batista Play" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Cazé TV ao vivo, é aqui, no Batista Play
 https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8
-#EXTINF:-1 tvg-name="Fox Kids está de volta ao vivo pelo Batista Play" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Fox Kids está de volta ao vivo pelo Batista Play
+#EXTINF:-1 tvg-name="Cazé TV ao vivo, é aqui, no Batista Play" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Cazé TV ao vivo, é aqui, no Batista Play
 https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8
+#EXTINF:-1 tvg-name="Siga o Batista Play nas Redes Sociais" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Siga o Batista Play nas Redes Sociais
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
