@@ -6,16 +6,16 @@
   "streams_ativos": 3,
   "canais": [
     {
-      "name": "Poste de teste do blog Batista Play",
+      "name": "Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/poste-de-teste-do-blog-batista-play-mvgutd8l"
+      "source": "https://www.batistaplay.net/blog/conheca-acesse-e-divirta-se-com-a-programacao-da-rede-brasil-de-televisao-mvu6yyjz"
     },
     {
-      "name": "Poste de teste do blog Batista Play",
+      "name": "Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/poste-de-teste-do-blog-batista-play-mvgutd8l"
+      "source": "https://www.batistaplay.net/blog/conheca-acesse-e-divirta-se-com-a-programacao-da-rede-brasil-de-televisao-mvu6yyjz"
     },
     {
       "name": "Termos de Serviço",
@@ -25,5 +25,5 @@
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-07 21:30:07 UTC"
+  "atualizado_em": "2026-11-08 04:44:51 UTC"
 }
