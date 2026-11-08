@@ -6,24 +6,24 @@
   "streams_ativos": 3,
   "canais": [
     {
-      "name": "Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão",
+      "name": "Cazé TV ao vivo, é aqui, no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-acesse-e-divirta-se-com-a-programacao-da-rede-brasil-de-televisao-mvu6yyjz"
+      "source": "https://www.batistaplay.net/blog/caze-tv-ao-vivo-e-aqui-no-batista-play-mvqzfwom"
     },
     {
-      "name": "Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão",
+      "name": "Cazé TV ao vivo, é aqui, no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-acesse-e-divirta-se-com-a-programacao-da-rede-brasil-de-televisao-mvu6yyjz"
+      "source": "https://www.batistaplay.net/blog/caze-tv-ao-vivo-e-aqui-no-batista-play-mvqzfwom"
     },
     {
-      "name": "Termos de Serviço",
+      "name": "Política de Privacidade",
       "category": "Geral",
       "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/termos-de-servico"
+      "source": "https://www.batistaplay.net/page/politica-de-privacidade"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-08 04:44:51 UTC"
+  "atualizado_em": "2026-11-08 12:51:18 UTC"
 }
