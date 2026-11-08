@@ -6,24 +6,24 @@
   "streams_ativos": 3,
   "canais": [
     {
-      "name": "Cazé TV ao vivo, é aqui, no Batista Play",
+      "name": "Poste de teste do blog Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/caze-tv-ao-vivo-e-aqui-no-batista-play-mvqzfwom"
+      "source": "https://www.batistaplay.net/blog/poste-de-teste-do-blog-batista-play-mvgutd8l"
     },
     {
-      "name": "Cazé TV ao vivo, é aqui, no Batista Play",
+      "name": "Poste de teste do blog Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/caze-tv-ao-vivo-e-aqui-no-batista-play-mvqzfwom"
+      "source": "https://www.batistaplay.net/blog/poste-de-teste-do-blog-batista-play-mvgutd8l"
     },
     {
-      "name": "Política de Privacidade",
+      "name": "Siga o Batista Play nas Redes Sociais",
       "category": "Geral",
       "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/politica-de-privacidade"
+      "source": "https://www.batistaplay.net/page/redes-sociais"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-08 12:51:18 UTC"
+  "atualizado_em": "2026-11-08 21:44:22 UTC"
 }
