@@ -2,28 +2,22 @@
   "site": "https://www.batistaplay.net/",
   "paginas_analisadas": 33,
   "paginas_descobertas": 33,
-  "streams_descobertos": 3,
-  "streams_ativos": 3,
+  "streams_descobertos": 2,
+  "streams_ativos": 2,
   "canais": [
     {
-      "name": "Como funciona a parceria com o Batista Play - Passo a passo",
+      "name": "Lucas TV - Uma ótima opção para você",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/como-funciona-a-parceria-com-o-batista-play-passo-a-passo-mw5k4oqa"
+      "source": "https://www.batistaplay.net/blog/lucas-tv-uma-otima-opcao-para-voce-mvqzddrs"
     },
     {
-      "name": "Como funciona a parceria com o Batista Play - Passo a passo",
+      "name": "Lucas TV - Uma ótima opção para você",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/como-funciona-a-parceria-com-o-batista-play-passo-a-passo-mw5k4oqa"
-    },
-    {
-      "name": "Política de Privacidade",
-      "category": "Geral",
-      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/politica-de-privacidade"
+      "source": "https://www.batistaplay.net/blog/lucas-tv-uma-otima-opcao-para-voce-mvqzddrs"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-10 01:16:39 UTC"
+  "atualizado_em": "2026-11-10 14:26:15 UTC"
 }
