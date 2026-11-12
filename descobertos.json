@@ -6,16 +6,16 @@
   "streams_ativos": 3,
   "canais": [
     {
-      "name": "Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão",
+      "name": "Conheça a BSTV Online - um dos nossos canais parceiros!",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-acesse-e-divirta-se-com-a-programacao-da-rede-brasil-de-televisao-mvu6yyjz"
+      "source": "https://www.batistaplay.net/blog/conheca-a-bstv-online-um-dos-nossos-canais-parceiros-mvwoix2s"
     },
     {
-      "name": "Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão",
+      "name": "Conheça a BSTV Online - um dos nossos canais parceiros!",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-acesse-e-divirta-se-com-a-programacao-da-rede-brasil-de-televisao-mvu6yyjz"
+      "source": "https://www.batistaplay.net/blog/conheca-a-bstv-online-um-dos-nossos-canais-parceiros-mvwoix2s"
     },
     {
       "name": "Termos de Serviço",
@@ -25,5 +25,5 @@
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-12 14:43:18 UTC"
+  "atualizado_em": "2026-11-12 23:15:42 UTC"
 }
