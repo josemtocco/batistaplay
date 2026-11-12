@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Como funciona a parceria com o Batista Play - Passo a passo" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Como funciona a parceria com o Batista Play - Passo a passo
+#EXTINF:-1 tvg-name="Canal do Usuário completa seu primeiro mês com mais de 4,3 mil visualizações e quase 1.000 espectadores únicos!" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Canal do Usuário completa seu primeiro mês com mais de 4,3 mil visualizações e quase 1.000 espectadores únicos!
 https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8
-#EXTINF:-1 tvg-name="Como funciona a parceria com o Batista Play - Passo a passo" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Como funciona a parceria com o Batista Play - Passo a passo
+#EXTINF:-1 tvg-name="Canal do Usuário completa seu primeiro mês com mais de 4,3 mil visualizações e quase 1.000 espectadores únicos!" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Canal do Usuário completa seu primeiro mês com mais de 4,3 mil visualizações e quase 1.000 espectadores únicos!
 https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8
+#EXTINF:-1 tvg-name="Política de Privacidade" tvg-country="BR" tvg-language="Portuguese" group-title="Geral",Política de Privacidade
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
