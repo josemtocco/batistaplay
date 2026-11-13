@@ -1,23 +1,29 @@
 {
   "site": "https://www.batistaplay.net/",
-  "paginas_analisadas": 33,
-  "paginas_descobertas": 33,
-  "streams_descobertos": 2,
-  "streams_ativos": 2,
+  "paginas_analisadas": 20,
+  "paginas_descobertas": 20,
+  "streams_descobertos": 3,
+  "streams_ativos": 3,
   "canais": [
     {
-      "name": "ISTV - A TV dos clássicos!",
+      "name": "Dúvidas Frequentes e Ajuda",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/istv-a-tv-dos-classicos-mvpitao6"
+      "source": "https://www.batistaplay.net/page/duvidas"
     },
     {
-      "name": "ISTV - A TV dos clássicos!",
+      "name": "Dúvidas Frequentes e Ajuda",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/istv-a-tv-dos-classicos-mvpitao6"
+      "source": "https://www.batistaplay.net/page/duvidas"
+    },
+    {
+      "name": "Siga o Batista Play nas Redes Sociais",
+      "category": "Geral",
+      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
+      "source": "https://www.batistaplay.net/page/redes-sociais"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-13 14:00:26 UTC"
+  "atualizado_em": "2026-11-13 23:17:39 UTC"
 }
