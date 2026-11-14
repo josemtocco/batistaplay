@@ -6,24 +6,24 @@
   "streams_ativos": 3,
   "canais": [
     {
-      "name": "Latina Sat - uma boa opção de entretenimento para você se divertir!",
+      "name": "Lucas TV - Uma ótima opção para você",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/latina-sat-uma-boa-opcao-de-entretenimento-para-voce-se-divertir-mvsol4nj"
+      "source": "https://www.batistaplay.net/blog/lucas-tv-uma-otima-opcao-para-voce-mvqzddrs"
     },
     {
-      "name": "Latina Sat - uma boa opção de entretenimento para você se divertir!",
+      "name": "Lucas TV - Uma ótima opção para você",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/latina-sat-uma-boa-opcao-de-entretenimento-para-voce-se-divertir-mvsol4nj"
+      "source": "https://www.batistaplay.net/blog/lucas-tv-uma-otima-opcao-para-voce-mvqzddrs"
     },
     {
-      "name": "Termos de Serviço",
+      "name": "Siga o Batista Play nas Redes Sociais",
       "category": "Geral",
       "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/termos-de-servico"
+      "source": "https://www.batistaplay.net/page/redes-sociais"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-14 05:11:45 UTC"
+  "atualizado_em": "2026-11-14 13:02:43 UTC"
 }
