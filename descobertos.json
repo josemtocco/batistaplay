@@ -1,29 +1,29 @@
 {
   "site": "https://www.batistaplay.net/",
-  "paginas_analisadas": 20,
-  "paginas_descobertas": 20,
+  "paginas_analisadas": 33,
+  "paginas_descobertas": 33,
   "streams_descobertos": 3,
   "streams_ativos": 3,
   "canais": [
     {
-      "name": "Dúvidas Frequentes e Ajuda",
+      "name": "Latina Sat - uma boa opção de entretenimento para você se divertir!",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/page/duvidas"
+      "source": "https://www.batistaplay.net/blog/latina-sat-uma-boa-opcao-de-entretenimento-para-voce-se-divertir-mvsol4nj"
     },
     {
-      "name": "Dúvidas Frequentes e Ajuda",
+      "name": "Latina Sat - uma boa opção de entretenimento para você se divertir!",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/page/duvidas"
+      "source": "https://www.batistaplay.net/blog/latina-sat-uma-boa-opcao-de-entretenimento-para-voce-se-divertir-mvsol4nj"
     },
     {
-      "name": "Siga o Batista Play nas Redes Sociais",
+      "name": "Termos de Serviço",
       "category": "Geral",
       "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/redes-sociais"
+      "source": "https://www.batistaplay.net/page/termos-de-servico"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-13 23:17:39 UTC"
+  "atualizado_em": "2026-11-14 05:11:45 UTC"
 }
