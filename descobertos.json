@@ -1,23 +1,29 @@
 {
   "site": "https://www.batistaplay.net/",
-  "paginas_analisadas": 34,
-  "paginas_descobertas": 34,
-  "streams_descobertos": 2,
-  "streams_ativos": 2,
+  "paginas_analisadas": 20,
+  "paginas_descobertas": 20,
+  "streams_descobertos": 3,
+  "streams_ativos": 3,
   "canais": [
     {
-      "name": "Poste de teste do blog Batista Play",
+      "name": "Dúvidas Frequentes e Ajuda",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/poste-de-teste-do-blog-batista-play-mvgutd8l"
+      "source": "https://www.batistaplay.net/page/duvidas"
     },
     {
-      "name": "Poste de teste do blog Batista Play",
+      "name": "Dúvidas Frequentes e Ajuda",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/poste-de-teste-do-blog-batista-play-mvgutd8l"
+      "source": "https://www.batistaplay.net/page/duvidas"
+    },
+    {
+      "name": "Siga o Batista Play nas Redes Sociais",
+      "category": "Geral",
+      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
+      "source": "https://www.batistaplay.net/page/redes-sociais"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-18 15:14:41 UTC"
+  "atualizado_em": "2026-11-18 23:56:25 UTC"
 }
