@@ -6,18 +6,18 @@
   "streams_ativos": 2,
   "canais": [
     {
-      "name": "Já Viu TV - Onde o povo se vê!",
+      "name": "Poste de teste do blog Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/ja-viu-tv-onde-o-povo-se-ve-mvpivnqw"
+      "source": "https://www.batistaplay.net/blog/poste-de-teste-do-blog-batista-play-mvgutd8l"
     },
     {
-      "name": "Já Viu TV - Onde o povo se vê!",
+      "name": "Poste de teste do blog Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/ja-viu-tv-onde-o-povo-se-ve-mvpivnqw"
+      "source": "https://www.batistaplay.net/blog/poste-de-teste-do-blog-batista-play-mvgutd8l"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-18 00:37:10 UTC"
+  "atualizado_em": "2026-11-18 15:14:41 UTC"
 }
