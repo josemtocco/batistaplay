@@ -1,29 +1,23 @@
 {
   "site": "https://www.batistaplay.net/",
-  "paginas_analisadas": 20,
-  "paginas_descobertas": 20,
-  "streams_descobertos": 3,
-  "streams_ativos": 3,
+  "paginas_analisadas": 34,
+  "paginas_descobertas": 34,
+  "streams_descobertos": 2,
+  "streams_ativos": 2,
   "canais": [
     {
-      "name": "Dúvidas Frequentes e Ajuda",
+      "name": "Como funciona a parceria com o Batista Play - Passo a passo",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/page/duvidas"
+      "source": "https://www.batistaplay.net/blog/como-funciona-a-parceria-com-o-batista-play-passo-a-passo-mw5k4oqa"
     },
     {
-      "name": "Dúvidas Frequentes e Ajuda",
+      "name": "Como funciona a parceria com o Batista Play - Passo a passo",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/page/duvidas"
-    },
-    {
-      "name": "Siga o Batista Play nas Redes Sociais",
-      "category": "Geral",
-      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/redes-sociais"
+      "source": "https://www.batistaplay.net/blog/como-funciona-a-parceria-com-o-batista-play-passo-a-passo-mw5k4oqa"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-18 23:56:25 UTC"
+  "atualizado_em": "2026-11-19 06:33:58 UTC"
 }
