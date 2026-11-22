@@ -2,22 +2,28 @@
   "site": "https://www.batistaplay.net/",
   "paginas_analisadas": 34,
   "paginas_descobertas": 34,
-  "streams_descobertos": 2,
-  "streams_ativos": 2,
+  "streams_descobertos": 3,
+  "streams_ativos": 3,
   "canais": [
     {
-      "name": "Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão",
+      "name": "Chegou novos canais no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-acesse-e-divirta-se-com-a-programacao-da-rede-brasil-de-televisao-mvu6yyjz"
+      "source": "https://www.batistaplay.net/blog/chegou-novos-canais-no-batista-play-mwjjg0zo"
     },
     {
-      "name": "Conheça, acesse e divirta-se com a programação da Rede Brasil de Televisão",
+      "name": "Chegou novos canais no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-acesse-e-divirta-se-com-a-programacao-da-rede-brasil-de-televisao-mvu6yyjz"
+      "source": "https://www.batistaplay.net/blog/chegou-novos-canais-no-batista-play-mwjjg0zo"
+    },
+    {
+      "name": "Siga o Batista Play nas Redes Sociais",
+      "category": "Geral",
+      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
+      "source": "https://www.batistaplay.net/page/redes-sociais"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-21 22:49:20 UTC"
+  "atualizado_em": "2026-11-22 05:24:11 UTC"
 }
