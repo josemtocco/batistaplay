@@ -6,24 +6,24 @@
   "streams_ativos": 3,
   "canais": [
     {
-      "name": "Fox Kids está de volta ao vivo pelo Batista Play",
+      "name": "ISTV - A TV dos clássicos!",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/fox-kids-esta-de-volta-ao-vivo-pelo-batista-play-mvzu8s2d"
+      "source": "https://www.batistaplay.net/blog/istv-a-tv-dos-classicos-mvpitao6"
     },
     {
-      "name": "Fox Kids está de volta ao vivo pelo Batista Play",
+      "name": "ISTV - A TV dos clássicos!",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/fox-kids-esta-de-volta-ao-vivo-pelo-batista-play-mvzu8s2d"
+      "source": "https://www.batistaplay.net/blog/istv-a-tv-dos-classicos-mvpitao6"
     },
     {
-      "name": "Termos de Serviço",
+      "name": "Siga o Batista Play nas Redes Sociais",
       "category": "Geral",
       "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/termos-de-servico"
+      "source": "https://www.batistaplay.net/page/redes-sociais"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-23 06:00:10 UTC"
+  "atualizado_em": "2026-11-23 17:56:06 UTC"
 }
