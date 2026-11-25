@@ -6,24 +6,24 @@
   "streams_ativos": 3,
   "canais": [
     {
-      "name": "Conheça a BSTV Online - um dos nossos canais parceiros!",
+      "name": "Chegou novos canais no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-a-bstv-online-um-dos-nossos-canais-parceiros-mvwoix2s"
+      "source": "https://www.batistaplay.net/blog/chegou-novos-canais-no-batista-play-mwjjg0zo"
     },
     {
-      "name": "Conheça a BSTV Online - um dos nossos canais parceiros!",
+      "name": "Chegou novos canais no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-a-bstv-online-um-dos-nossos-canais-parceiros-mvwoix2s"
+      "source": "https://www.batistaplay.net/blog/chegou-novos-canais-no-batista-play-mwjjg0zo"
     },
     {
-      "name": "Política de Privacidade",
+      "name": "Siga o Batista Play nas Redes Sociais",
       "category": "Geral",
       "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/politica-de-privacidade"
+      "source": "https://www.batistaplay.net/page/redes-sociais"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-24 17:02:28 UTC"
+  "atualizado_em": "2026-11-25 01:57:20 UTC"
 }
