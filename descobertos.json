@@ -2,28 +2,22 @@
   "site": "https://www.batistaplay.net/",
   "paginas_analisadas": 34,
   "paginas_descobertas": 34,
-  "streams_descobertos": 3,
-  "streams_ativos": 3,
+  "streams_descobertos": 2,
+  "streams_ativos": 2,
   "canais": [
     {
-      "name": "Conheça a Clouding TV - a sua opção de entretenimento",
+      "name": "Chegou novos canais no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/main_stream.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-a-clouding-tv-a-sua-opcao-de-entretenimento-mw1dug5s"
+      "source": "https://www.batistaplay.net/blog/chegou-novos-canais-no-batista-play-mwjjg0zo"
     },
     {
-      "name": "Conheça a Clouding TV - a sua opção de entretenimento",
+      "name": "Chegou novos canais no Batista Play",
       "category": "Geral",
       "url": "https://video11.logicahost.com.br/canaldousuario/canaldousuario/playlist.m3u8",
-      "source": "https://www.batistaplay.net/blog/conheca-a-clouding-tv-a-sua-opcao-de-entretenimento-mw1dug5s"
-    },
-    {
-      "name": "Termos de Serviço",
-      "category": "Geral",
-      "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
-      "source": "https://www.batistaplay.net/page/termos-de-servico"
+      "source": "https://www.batistaplay.net/blog/chegou-novos-canais-no-batista-play-mwjjg0zo"
     }
   ],
   "erros": [],
-  "atualizado_em": "2026-11-26 01:38:13 UTC"
+  "atualizado_em": "2026-11-26 16:30:09 UTC"
 }
